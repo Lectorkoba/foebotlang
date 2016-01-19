@@ -1,0 +1,2000 @@
+cz&&ButtonAuthorization&&Přihlásit se
+cz&&ButtonClanMemberLike&&Stejně jako členů cechu
+cz&&ButtonCollectTreasure&&Sbírejte poklady
+cz&&ButtonFindNewClan&&Najít nové cech a stejně jako
+cz&&ButtonLookInWell&&Podívejte se do studny
+cz&&ButtonPickupMoney&&Sbírat mince
+cz&&ButtonPickupProduction&&Sbírejte produkty
+cz&&ButtonSocialLike&&Stejně jako sousedé
+cz&&ButtonStartProduction&&Zahájení výroby
+cz&&CheckBoxFindGuildAuto&&Hledat klany
+cz&&CheckBoxLikeAuto&&Automaticky
+cz&&CheckBoxPointAuto&&Automaticky
+cz&&CheckBoxProductionAuto&&Automaticky
+cz&&CheckBoxTreasureAuto&&Automaticky
+cz&&GroupBoxAuthorization&&Povolení
+cz&&GroupBoxBalance&&Váhy
+cz&&GroupBoxLike&&Vznešený
+cz&&GroupBoxProduction&&Výroba
+cz&&GroupBoxSP&&Distribuční body
+cz&&GroupBoxTreasure&&Honba za pokladem
+cz&&GroupBoxUser&&Hráč
+cz&&LabelBlueprintCount&&Nalezeno plány: 0
+cz&&LabelClanId&&Aktuální cech
+cz&&LabelGetPoints&&Získat body
+cz&&LabelMedals&&Medaile
+cz&&LabelMedalsValue&&0
+cz&&LabelMoney&&Mince
+cz&&LabelMoneyValue&&0
+cz&&LabelPoints&&VÁHY
+cz&&LabelPopulation&&Obyvatelé
+cz&&LabelPopulationValue&&0
+cz&&LabelPremium&&Pojistné
+cz&&LabelPremiumValue&&0
+cz&&LabelRank&&Hodnocení
+cz&&LabelRankValue&&0
+cz&&LabelSP&&Dostupný
+cz&&LabelSPCM&&0/0
+cz&&LabelSPCount&&0
+cz&&LabelSPValue&&0 / 10
+cz&&LabelSupplies&&Zdroje
+cz&&LabelSuppliesValue&&0
+cz&&Str_Auto&&(auto)
+cz&&Str_AvailableVersoin&&Restart application. Nová verze je k dispozici
+cz&&Str_ClanId&&Aktuální cech
+cz&&Str_ClanMembersLike&&Členů cechu Like
+cz&&Str_CollectProduction&&Sběr výroba
+cz&&Str_CollectTreasure&&Hledáte poklad
+cz&&Str_DecommissionedPoint&&Vyřazeno z provozu 1 bod za skupinu
+cz&&Str_DontFindNewClan&&Nenašli jste vhodnou cech
+cz&&Str_ErrorStartProduction&&Není dostatek prostředků na začátek
+cz&&Str_Expansions&&Rozšíření
+cz&&Str_FindNewClan&&Hledáte nový cech
+cz&&Str_Finished&&Dokončeno
+cz&&Str_FoundBlueprint&&Nalezeno modrotisk
+cz&&Str_FriendsLike&&Přátelé Like
+cz&&Str_Goods&&Zboží
+cz&&Str_InsertPoint1&&Použitý
+cz&&Str_InsertPoint2&&Roztočit
+cz&&Str_InternetError&&Chyba Internet
+cz&&Str_JionGuild&&Zapojte se do cechu
+cz&&Str_Launched&&Spuštěn
+cz&&Str_Like&&Vznešený
+cz&&Str_LogIn&&Přihlásit se
+cz&&Str_LogOut&&Odhlásit se
+cz&&Str_Medals&&Medaile
+cz&&Str_Money&&Peníze
+cz&&Str_NeighborsLike&&Sousedy, jako
+cz&&Str_NoCollectProduction&&Neexistuje žádný konečný produkt,
+cz&&Str_NoPoint&&Není k dispozici pro použití SP
+cz&&Str_NoTechnology&&Žádná technologie, aby prozkoumala
+cz&&Str_NotStudiedAgriculture&&Technologie "Zemědělství" nebyl studován
+cz&&Str_NotStudiedBlacksmithing&&Technologie "Kovářství" nebyl studován
+cz&&Str_NoСollectСoins&&No sbírání mince
+cz&&Str_PlayersGuild&&Hráči v cechu
+cz&&Str_Point&&Použít SP
+cz&&Str_Population&&Populace
+cz&&Str_Premium&&POJISTNÉ
+cz&&Str_Production&&Výroba
+cz&&Str_Rank&&Hodnocení
+cz&&Str_SelectWorld&&Vybrat svět
+cz&&Str_ServiceError&&Chyba služby
+cz&&Str_SessionAborted&&Sezení je přerušen
+cz&&Str_SP&&SP
+cz&&Str_SR&&Sezónní zdroje
+cz&&Str_Start&&Start
+cz&&Str_StartProduction&&Spuštění výroby
+cz&&Str_Stop&&Stop
+cz&&Str_Supplies&&Dodávky
+cz&&Str_Treasure&&Honba za pokladem
+cz&&Str_TreasureFind&&Poklady shromážděné
+cz&&Str_TreasureWillFind&&Poklad najde
+cz&&Str_UsePoint&&Používání SP
+cz&&Str_Versoin&&Versoin
+cz&&Str_WelkomeSite&&Jít na stránky allppl.ru
+cz&&Str_ZeroBalance&&Je třeba doplnit rovnováhu bodů
+cz&&Str_Сollected&&Сollected
+cz&&Str_СollectСoins&&Сollect peníze
+cz&&TextBoxHash&&HASH
+cz&&TextBoxPassword&&Heslo
+cz&&TextBoxPlayerName&&Jméno hráče
+de&&ButtonAuthorization&&Anmeldung
+de&&ButtonClanMemberLike&&Wie Gildenmitglieder
+de&&ButtonCollectTreasure&&Sammeln Schätze
+de&&ButtonFindNewClan&&Finden Sie neue Gilde und Wie
+de&&ButtonLookInWell&&Schauen Sie in den Brunnen
+de&&ButtonPickupMoney&&Münzen sammeln
+de&&ButtonPickupProduction&&Sammeln Artikel
+de&&ButtonSocialLike&&Wie Nachbarn
+de&&ButtonStartProduction&&Produktionsstart
+de&&CheckBoxFindGuildAuto&&Suche Clans
+de&&CheckBoxLikeAuto&&Automatisch
+de&&CheckBoxPointAuto&&Automatisch
+de&&CheckBoxProductionAuto&&Automatisch
+de&&CheckBoxTreasureAuto&&Automatisch
+de&&GroupBoxAuthorization&&Genehmigung
+de&&GroupBoxBalance&&Balance
+de&&GroupBoxLike&&Veredelnden
+de&&GroupBoxProduction&&Produktion
+de&&GroupBoxSP&&Verteilungspunkte
+de&&GroupBoxTreasure&&Schatzsuche
+de&&GroupBoxUser&&Spieler
+de&&LabelBlueprintCount&&Gefunden Blaupausen: 0
+de&&LabelClanId&&Aktuelle Gilde
+de&&LabelGetPoints&&Erhalten Punkte
+de&&LabelMedals&&Medaillen
+de&&LabelMedalsValue&&0
+de&&LabelMoney&&Münzen
+de&&LabelMoneyValue&&0
+de&&LabelPoints&&BALANCE
+de&&LabelPopulation&&Einwohner
+de&&LabelPopulationValue&&0
+de&&LabelPremium&&Prämie
+de&&LabelPremiumValue&&0
+de&&LabelRank&&Bewertung
+de&&LabelRankValue&&0
+de&&LabelSP&&Verfügbar
+de&&LabelSPCM&&0/0
+de&&LabelSPCount&&00.00.00
+de&&LabelSPValue&&0 / 10
+de&&LabelSupplies&&Ressourcen
+de&&LabelSuppliesValue&&0
+de&&Str_Auto&&(Auto)
+de&&Str_AvailableVersoin&&Restart-Anwendung. Eine neue Version ist verfügbar
+de&&Str_ClanId&&Aktuelle Gilde
+de&&Str_ClanMembersLike&&Gildenmitglieder wie
+de&&Str_CollectProduction&&Sammeln Produktions
+de&&Str_CollectTreasure&&Suche nach Schätzen
+de&&Str_DecommissionedPoint&&Stillgelegt 1 Punkt für eine Gruppe von
+de&&Str_DontFindNewClan&&Hat einen geeigneten Gilde nicht gefunden
+de&&Str_ErrorStartProduction&&Nicht genügend Ressourcen, um zu starten
+de&&Str_Expansions&&Erweiterungen
+de&&Str_FindNewClan&&Auf der Suche nach neuen Gilden
+de&&Str_Finished&&Fertig
+de&&Str_FoundBlueprint&&Gefunden Blaupause
+de&&Str_FriendsLike&&Friends Like
+de&&Str_Goods&&Waren
+de&&Str_InsertPoint1&&Benutzt
+de&&Str_InsertPoint2&&Drehen
+de&&Str_InternetError&&Internet-Fehler
+de&&Str_JionGuild&&Treten Sie der Gilde
+de&&Str_Launched&&Gestartet
+de&&Str_Like&&Veredelnden
+de&&Str_LogIn&&Anmeldung
+de&&Str_LogOut&&Abmelden
+de&&Str_Medals&&Medaillen
+de&&Str_Money&&Geld
+de&&Str_NeighborsLike&&Nachbarn wie
+de&&Str_NoCollectProduction&&Es gibt keine Fertigware
+de&&Str_NoPoint&&Keine verfügbaren SP für die Verwendung
+de&&Str_NoTechnology&&Keine Technologie zu erforschen
+de&&Str_NotStudiedAgriculture&&Technology "Landwirtschaft" wurde nicht untersucht
+de&&Str_NotStudiedBlacksmithing&&Technology "Schmiedekunst" wurde nicht untersucht
+de&&Str_NoСollectСoins&&Kein Sammeln von Münzen
+de&&Str_PlayersGuild&&Spieler Gilde
+de&&Str_Point&&Verwenden SP
+de&&Str_Population&&Bevölkerung
+de&&Str_Premium&&PRÄMIE
+de&&Str_Production&&Produktion
+de&&Str_Rank&&Bewertung
+de&&Str_SelectWorld&&Wählen weltweit
+de&&Str_ServiceError&&Dienstfehler
+de&&Str_SessionAborted&&Die Sitzung wird unterbrochen,
+de&&Str_SP&&SP
+de&&Str_SR&&Saisonale Ressourcen
+de&&Str_Start&&Anfang
+de&&Str_StartProduction&&Führen Produktions
+de&&Str_Stop&&Stopp
+de&&Str_Supplies&&Zubehör
+de&&Str_Treasure&&Schatzsuche
+de&&Str_TreasureFind&&Die Schätze gesammelt
+de&&Str_TreasureWillFind&&Schatz finden
+de&&Str_UsePoint&&Verwenden SP
+de&&Str_Versoin&&Versoin
+de&&Str_WelkomeSite&&Gehen Sie zur Website allppl.ru
+de&&Str_ZeroBalance&&Es ist notwendig, um das Gleichgewicht von Punkten aufzufüllen
+de&&Str_Сollected&&Сollected
+de&&Str_СollectСoins&&Сollect Geld
+de&&TextBoxHash&&HASH
+de&&TextBoxPassword&&Passwort
+de&&TextBoxPlayerName&&Spielername
+dk&&ButtonAuthorization&&Log på
+dk&&ButtonClanMemberLike&&Ligesom guild medlemmer
+dk&&ButtonCollectTreasure&&Saml skatte
+dk&&ButtonFindNewClan&&Find nye guild og Ligesom
+dk&&ButtonLookInWell&&Kig ned i brønden
+dk&&ButtonPickupMoney&&Saml mønter
+dk&&ButtonPickupProduction&&Saml produkter
+dk&&ButtonSocialLike&&Ligesom naboer
+dk&&ButtonStartProduction&&Start af produktionen
+dk&&CheckBoxFindGuildAuto&&Søg klaner
+dk&&CheckBoxLikeAuto&&Automatisk
+dk&&CheckBoxPointAuto&&Automatisk
+dk&&CheckBoxProductionAuto&&Automatisk
+dk&&CheckBoxTreasureAuto&&Automatisk
+dk&&GroupBoxAuthorization&&Bemyndigelse
+dk&&GroupBoxBalance&&Balance
+dk&&GroupBoxLike&&Forædlende
+dk&&GroupBoxProduction&&Produktion
+dk&&GroupBoxSP&&Distribution point
+dk&&GroupBoxTreasure&&Skattejagt
+dk&&GroupBoxUser&&Spiller
+dk&&LabelBlueprintCount&&Fundet blueprints: 0
+dk&&LabelClanId&&Aktuel guild
+dk&&LabelGetPoints&&Får point
+dk&&LabelMedals&&Medaljer
+dk&&LabelMedalsValue&&0
+dk&&LabelMoney&&Mønter
+dk&&LabelMoneyValue&&0
+dk&&LabelPoints&&BALANCE
+dk&&LabelPopulation&&Beboere
+dk&&LabelPopulationValue&&0
+dk&&LabelPremium&&Præmie
+dk&&LabelPremiumValue&&0
+dk&&LabelRank&&Bedømmelse
+dk&&LabelRankValue&&0
+dk&&LabelSP&&Tilgængelig
+dk&&LabelSPCM&&0/0
+dk&&LabelSPCount&&0
+dk&&LabelSPValue&&0 / 10
+dk&&LabelSupplies&&Ressourcer
+dk&&LabelSuppliesValue&&0
+dk&&Str_Auto&&(auto)
+dk&&Str_AvailableVersoin&&Genstart ansøgning. En ny version er tilgængelig
+dk&&Str_ClanId&&Aktuel guild
+dk&&Str_ClanMembersLike&&Guild medlemmer Ligesom
+dk&&Str_CollectProduction&&Indsamling produktion
+dk&&Str_CollectTreasure&&Leder du efter skat
+dk&&Str_DecommissionedPoint&&Nedlægges 1 point for en gruppe af
+dk&&Str_DontFindNewClan&&Fandt du ikke finde en egnet guild
+dk&&Str_ErrorStartProduction&&Ikke nok ressourcer til at starte
+dk&&Str_Expansions&&Udvidelser
+dk&&Str_FindNewClan&&Leder du efter nye guild
+dk&&Str_Finished&&Færdig
+dk&&Str_FoundBlueprint&&Fundet blueprint
+dk&&Str_FriendsLike&&Friends Kan du lide
+dk&&Str_Goods&&Gods
+dk&&Str_InsertPoint1&&Bruges
+dk&&Str_InsertPoint2&&SP i
+dk&&Str_InternetError&&Internet fejl
+dk&&Str_JionGuild&&Deltag lauget
+dk&&Str_Launched&&Lanceret
+dk&&Str_Like&&Forædlende
+dk&&Str_LogIn&&Log på
+dk&&Str_LogOut&&Log ud
+dk&&Str_Medals&&Medaljer
+dk&&Str_Money&&Penge
+dk&&Str_NeighborsLike&&Naboer Ligesom
+dk&&Str_NoCollectProduction&&Der er ingen færdige produkt
+dk&&Str_NoPoint&&Ingen tilgængelig SP til brug
+dk&&Str_NoTechnology&&Ingen teknologi til at udforske
+dk&&Str_NotStudiedAgriculture&&Teknologi "Landbrug" er ikke blevet undersøgt
+dk&&Str_NotStudiedBlacksmithing&&Teknologi "Blacksmithing" er ikke blevet undersøgt
+dk&&Str_NoСollectСoins&&Ingen mønt indsamling
+dk&&Str_PlayersGuild&&Spillere i guild
+dk&&Str_Point&&Brug SP
+dk&&Str_Population&&Befolkning
+dk&&Str_Premium&&PRÆMIE
+dk&&Str_Production&&Produktion
+dk&&Str_Rank&&Bedømmelse
+dk&&Str_SelectWorld&&Vælg verden
+dk&&Str_ServiceError&&Tjenesten fejl
+dk&&Str_SessionAborted&&Sessionen er afbrudt
+dk&&Str_SP&&SP
+dk&&Str_SR&&Seasonal ressourcer
+dk&&Str_Start&&Starte
+dk&&Str_StartProduction&&Kør produktion
+dk&&Str_Stop&&Stop
+dk&&Str_Supplies&&Forsyninger
+dk&&Str_Treasure&&Skattejagt
+dk&&Str_TreasureFind&&Skatte indsamlet
+dk&&Str_TreasureWillFind&&Treasure vil finde
+dk&&Str_UsePoint&&Brug SP
+dk&&Str_Versoin&&Versoin
+dk&&Str_WelkomeSite&&Gå til webstedet allppl.ru
+dk&&Str_ZeroBalance&&Det er nødvendigt at genopbygge balancen points
+dk&&Str_Сollected&&Сollected
+dk&&Str_СollectСoins&&Сollect penge
+dk&&TextBoxHash&&HASH
+dk&&TextBoxPassword&&Adgangskode
+dk&&TextBoxPlayerName&&Spillernavn
+en&&ButtonAuthorization&&Login
+en&&ButtonClanMemberLike&&Like guild members
+en&&ButtonCollectTreasure&&Collect treasures
+en&&ButtonFindNewClan&&Find new guild and Like
+en&&ButtonLookInWell&&Look into the well
+en&&ButtonPickupMoney&&Collect coins
+en&&ButtonPickupProduction&&Collect products
+en&&ButtonSocialLike&&Like neighbors
+en&&ButtonStartProduction&&Start of production
+en&&CheckBoxFindGuildAuto&&Search clans
+en&&CheckBoxLikeAuto&&Automatically
+en&&CheckBoxPointAuto&&Automatically
+en&&CheckBoxProductionAuto&&Automatically
+en&&CheckBoxTreasureAuto&&Automatically
+en&&GroupBoxAuthorization&&Authorization
+en&&GroupBoxBalance&&Balance
+en&&GroupBoxLike&&Ennobling
+en&&GroupBoxProduction&&Production
+en&&GroupBoxSP&&Distribution points
+en&&GroupBoxTreasure&&Treasure Hunt
+en&&GroupBoxUser&&Player
+en&&LabelBlueprintCount&&Found blueprints : 0
+en&&LabelClanId&&Current guild
+en&&LabelGetPoints&&GET POINTS
+en&&LabelMedals&&Medals
+en&&LabelMedalsValue&&0
+en&&LabelMoney&&Coins
+en&&LabelMoneyValue&&0
+en&&LabelPoints&&BALANCE
+en&&LabelPopulation&&Residents
+en&&LabelPopulationValue&&0
+en&&LabelPremium&&Premium
+en&&LabelPremiumValue&&0
+en&&LabelRank&&Rating
+en&&LabelRankValue&&0
+en&&LabelSP&&Available
+en&&LabelSPCM&&0/0
+en&&LabelSPCount&&0
+en&&LabelSPValue&&0 / 10
+en&&LabelSupplies&&Resources
+en&&LabelSuppliesValue&&0
+en&&Str_Auto&&(auto)
+en&&Str_AvailableVersoin&&Restart application. A new version is available
+en&&Str_ClanId&&Current guild
+en&&Str_ClanMembersLike&&Guild members Like
+en&&Str_CollectProduction&&Collecting production
+en&&Str_CollectTreasure&&Looking for treasure
+en&&Str_DecommissionedPoint&&Decommissioned 1 Point for a group of
+en&&Str_DontFindNewClan&&Did not find a suitable guild
+en&&Str_ErrorStartProduction&&Not enough resources to start
+en&&Str_Expansions&&Expansions
+en&&Str_FindNewClan&&Looking for new guild
+en&&Str_Finished&&Finished
+en&&Str_FoundBlueprint&&Found blueprint
+en&&Str_FriendsLike&&Friends Like
+en&&Str_Goods&&Goods
+en&&Str_InsertPoint1&&Used
+en&&Str_InsertPoint2&&SP in
+en&&Str_InternetError&&Internet error
+en&&Str_JionGuild&&Join the guild
+en&&Str_Launched&&Launched
+en&&Str_Like&&Ennobling
+en&&Str_LogIn&&Login
+en&&Str_LogOut&&Logout
+en&&Str_Medals&&Medals
+en&&Str_Money&&Money
+en&&Str_NeighborsLike&&Neighbors Like
+en&&Str_NoCollectProduction&&There is no finished product
+en&&Str_NoPoint&&No available SP for use
+en&&Str_NoTechnology&&No technology to explore
+en&&Str_NotStudiedAgriculture&&Technology "Agriculture" has not been studied
+en&&Str_NotStudiedBlacksmithing&&Technology "Blacksmithing" has not been studied
+en&&Str_NoСollectСoins&&No coin collecting
+en&&Str_PlayersGuild&&Players in guild
+en&&Str_Point&&Use SP
+en&&Str_Population&&Population
+en&&Str_Premium&&PREMIUM
+en&&Str_Production&&Production
+en&&Str_Rank&&Rating
+en&&Str_SelectWorld&&Select world
+en&&Str_ServiceError&&Service error
+en&&Str_SessionAborted&&The session is interrupted
+en&&Str_SP&&SP
+en&&Str_SR&&Seasonal resources
+en&&Str_Start&&Start
+en&&Str_StartProduction&&Run production
+en&&Str_Stop&&Stop
+en&&Str_Supplies&&Supplies
+en&&Str_Treasure&&Treasure hunt
+en&&Str_TreasureFind&&The treasures collected
+en&&Str_TreasureWillFind&&Treasure will find
+en&&Str_UsePoint&&Using SP
+en&&Str_Versoin&&Versoin
+en&&Str_WelkomeSite&&Go to the site allppl.ru
+en&&Str_ZeroBalance&&It is necessary to replenish the balance of points
+en&&Str_Сollected&&Сollected
+en&&Str_СollectСoins&&Сollect money
+en&&TextBoxHash&&HASH
+en&&TextBoxPassword&&Password
+en&&TextBoxPlayerName&&Player name
+es&&ButtonAuthorization&&Iniciar sesión
+es&&ButtonClanMemberLike&&Al igual que los miembros del gremio
+es&&ButtonCollectTreasure&&Recoge tesoros
+es&&ButtonFindNewClan&&Encontrar nuevo gremio y como
+es&&ButtonLookInWell&&Mira en el pozo
+es&&ButtonPickupMoney&&Recoge monedas
+es&&ButtonPickupProduction&&Recoger productos
+es&&ButtonSocialLike&&Como vecinos
+es&&ButtonStartProduction&&Inicio de la producción
+es&&CheckBoxFindGuildAuto&&Buscar clanes
+es&&CheckBoxLikeAuto&&Automáticamente
+es&&CheckBoxPointAuto&&Automáticamente
+es&&CheckBoxProductionAuto&&Automáticamente
+es&&CheckBoxTreasureAuto&&Automáticamente
+es&&GroupBoxAuthorization&&Autorización
+es&&GroupBoxBalance&&Equilibrar
+es&&GroupBoxLike&&Ennoblecedor
+es&&GroupBoxProduction&&Producción
+es&&GroupBoxSP&&Los puntos de distribución
+es&&GroupBoxTreasure&&La búsqueda del tesoro
+es&&GroupBoxUser&&Jugador
+es&&LabelBlueprintCount&&Planos encontrados: 0
+es&&LabelClanId&&Gremio actual
+es&&LabelGetPoints&&PUNTUACIÓN
+es&&LabelMedals&&Medallas
+es&&LabelMedalsValue&&0
+es&&LabelMoney&&Monedas
+es&&LabelMoneyValue&&0
+es&&LabelPoints&&EQUILIBRAR
+es&&LabelPopulation&&Residentes
+es&&LabelPopulationValue&&0
+es&&LabelPremium&&Prima
+es&&LabelPremiumValue&&0
+es&&LabelRank&&Clasificación
+es&&LabelRankValue&&0
+es&&LabelSP&&Disponible
+es&&LabelSPCM&&0/0
+es&&LabelSPCount&&0
+es&&LabelSPValue&&0 / 10
+es&&LabelSupplies&&Recursos
+es&&LabelSuppliesValue&&0
+es&&Str_Auto&&(auto)
+es&&Str_AvailableVersoin&&Aplicación en Reiniciar. Una nueva versión está disponible
+es&&Str_ClanId&&Gremio actual
+es&&Str_ClanMembersLike&&Los miembros del gremio Like
+es&&Str_CollectProduction&&Recopilación de producción
+es&&Str_CollectTreasure&&Buscando el tesoro
+es&&Str_DecommissionedPoint&&Desarmado 1 punto para un grupo de
+es&&Str_DontFindNewClan&&¿No ha encontrado un gremio adecuado
+es&&Str_ErrorStartProduction&&No hay suficientes recursos para iniciar
+es&&Str_Expansions&&Ampliaciones
+es&&Str_FindNewClan&&Buscando nuevo gremio
+es&&Str_Finished&&Terminado
+es&&Str_FoundBlueprint&&Anteproyecto Encontrado
+es&&Str_FriendsLike&&Friends Like
+es&&Str_Goods&&Bienes
+es&&Str_InsertPoint1&&Utilizado
+es&&Str_InsertPoint2&&Girar
+es&&Str_InternetError&&Error de Internet
+es&&Str_JionGuild&&Únete a la Alianza
+es&&Str_Launched&&Lanzado
+es&&Str_Like&&Ennoblecedor
+es&&Str_LogIn&&Iniciar sesión
+es&&Str_LogOut&&Cerrar sesión
+es&&Str_Medals&&Medallas
+es&&Str_Money&&Dinero
+es&&Str_NeighborsLike&&Vecinos como
+es&&Str_NoCollectProduction&&No hay producto terminado
+es&&Str_NoPoint&&Sin SP disponible para su uso
+es&&Str_NoTechnology&&Ninguna tecnología para explorar
+es&&Str_NotStudiedAgriculture&&Tecnología "Agricultura" No se ha estudiado
+es&&Str_NotStudiedBlacksmithing&&Tecnología "Herrería" no se ha estudiado
+es&&Str_NoСollectСoins&&Sin recoger de la moneda
+es&&Str_PlayersGuild&&Jugadores en la alianza
+es&&Str_Point&&Uso SP
+es&&Str_Population&&Población
+es&&Str_Premium&&PRIMA
+es&&Str_Production&&Producción
+es&&Str_Rank&&Clasificación
+es&&Str_SelectWorld&&Seleccione mundo
+es&&Str_ServiceError&&Error de servicio
+es&&Str_SessionAborted&&La sesión se interrumpe
+es&&Str_SP&&SP
+es&&Str_SR&&Recursos estacionales
+es&&Str_Start&&Empezar
+es&&Str_StartProduction&&Producción Ejecutar
+es&&Str_Stop&&Deténgase
+es&&Str_Supplies&&Suministros
+es&&Str_Treasure&&Búsqueda del tesoro
+es&&Str_TreasureFind&&Los tesoros recogidos
+es&&Str_TreasureWillFind&&Tesoro encontrará
+es&&Str_UsePoint&&El uso de SP
+es&&Str_Versoin&&Versoin
+es&&Str_WelkomeSite&&Ir a la allppl.ru sitio
+es&&Str_ZeroBalance&&Es necesario reponer el saldo de puntos
+es&&Str_Сollected&&Сollected
+es&&Str_СollectСoins&&Dinero Сollect
+es&&TextBoxHash&&HASH
+es&&TextBoxPassword&&Clave
+es&&TextBoxPlayerName&&Nombre del jugador
+fi&&ButtonAuthorization&&Kirjaudu sisään
+fi&&ButtonClanMemberLike&&Kuten killan jäsenet
+fi&&ButtonCollectTreasure&&Kerää aarteita
+fi&&ButtonFindNewClan&&Etsi uusi kilta ja Like
+fi&&ButtonLookInWell&&Perehdy hyvin
+fi&&ButtonPickupMoney&&Kerää kolikot
+fi&&ButtonPickupProduction&&Kerää tuotteet
+fi&&ButtonSocialLike&&Kuten naapurit
+fi&&ButtonStartProduction&&Alussa tuotannon
+fi&&CheckBoxFindGuildAuto&&Etsi Klaanit
+fi&&CheckBoxLikeAuto&&Automaattisesti
+fi&&CheckBoxPointAuto&&Automaattisesti
+fi&&CheckBoxProductionAuto&&Automaattisesti
+fi&&CheckBoxTreasureAuto&&Automaattisesti
+fi&&GroupBoxAuthorization&&Valtuutus
+fi&&GroupBoxBalance&&Saldo
+fi&&GroupBoxLike&&Jalostavaa
+fi&&GroupBoxProduction&&Tuotanto
+fi&&GroupBoxSP&&Jakelupisteet
+fi&&GroupBoxTreasure&&Aarrejahti
+fi&&GroupBoxUser&&Pelaaja
+fi&&LabelBlueprintCount&&Löydetty piirustuksia: 0
+fi&&LabelClanId&&Nykyinen kilta
+fi&&LabelGetPoints&&Saada pisteitä
+fi&&LabelMedals&&Mitalit
+fi&&LabelMedalsValue&&0
+fi&&LabelMoney&&Kolikot
+fi&&LabelMoneyValue&&0
+fi&&LabelPoints&&SALDO
+fi&&LabelPopulation&&Asukkaat
+fi&&LabelPopulationValue&&0
+fi&&LabelPremium&&Palkkio
+fi&&LabelPremiumValue&&0
+fi&&LabelRank&&Luokitus
+fi&&LabelRankValue&&0
+fi&&LabelSP&&Saatavissa
+fi&&LabelSPCM&&0/0
+fi&&LabelSPCount&&0
+fi&&LabelSPValue&&0 / 10
+fi&&LabelSupplies&&Resurssit
+fi&&LabelSuppliesValue&&0
+fi&&Str_Auto&&(auto)
+fi&&Str_AvailableVersoin&&Käynnistä uudelleen sovellus. Uusi versio on saatavilla
+fi&&Str_ClanId&&Nykyinen kilta
+fi&&Str_ClanMembersLike&&Killan jäsenet Like
+fi&&Str_CollectProduction&&Keräily tuotanto
+fi&&Str_CollectTreasure&&Etsivät aarretta
+fi&&Str_DecommissionedPoint&&Käytöstä poistettuja 1 piste ryhmä
+fi&&Str_DontFindNewClan&&Etkö löytänyt sopivaa kilta
+fi&&Str_ErrorStartProduction&&Ei tarpeeksi resursseja alkaa
+fi&&Str_Expansions&&Laajennukset
+fi&&Str_FindNewClan&&Etsivät uusia kilta
+fi&&Str_Finished&&Valmiit
+fi&&Str_FoundBlueprint&&Löytyi suunnitelma
+fi&&Str_FriendsLike&&Ystävät Like
+fi&&Str_Goods&&Tavarat
+fi&&Str_InsertPoint1&&Käytetyt
+fi&&Str_InsertPoint2&&SP
+fi&&Str_InternetError&&Internet virhe
+fi&&Str_JionGuild&&Liity kilta
+fi&&Str_Launched&&Käynnistettiin
+fi&&Str_Like&&Jalostavaa
+fi&&Str_LogIn&&Kirjaudu sisään
+fi&&Str_LogOut&&Kirjautua ulos
+fi&&Str_Medals&&Mitalit
+fi&&Str_Money&&Raha
+fi&&Str_NeighborsLike&&Naapurit Like
+fi&&Str_NoCollectProduction&&Ei ole olemassa lopputuotteen
+fi&&Str_NoPoint&&Ei saatavilla SP käyttöön
+fi&&Str_NoTechnology&&Ei tekniikka tutkia
+fi&&Str_NotStudiedAgriculture&&Teknologia "Maatalous" ei ole tutkittu
+fi&&Str_NotStudiedBlacksmithing&&Teknologia "Blacksmithing" ei ole tutkittu
+fi&&Str_NoСollectСoins&&Ei kolikon kerätä
+fi&&Str_PlayersGuild&&Pelaajat kilta
+fi&&Str_Point&&Käytä SP
+fi&&Str_Population&&Väestö
+fi&&Str_Premium&&PREMIUM
+fi&&Str_Production&&Tuotanto
+fi&&Str_Rank&&Luokitus
+fi&&Str_SelectWorld&&Valitse maailma
+fi&&Str_ServiceError&&Palvelun virhe
+fi&&Str_SessionAborted&&Istunto keskeytyy
+fi&&Str_SP&&SP
+fi&&Str_SR&&Kausiluonteinen resurssit
+fi&&Str_Start&&Alku
+fi&&Str_StartProduction&&Suorita tuotanto
+fi&&Str_Stop&&Stop
+fi&&Str_Supplies&&Tarvikkeet
+fi&&Str_Treasure&&Aarrejahti
+fi&&Str_TreasureFind&&Aarteita kerätty
+fi&&Str_TreasureWillFind&&Treasure löytävät
+fi&&Str_UsePoint&&Käyttäen SP
+fi&&Str_Versoin&&Versoin
+fi&&Str_WelkomeSite&&Siirry sivuston allppl.ru
+fi&&Str_ZeroBalance&&On tarpeen täydentää tasapaino pisteiden
+fi&&Str_Сollected&&Сollected
+fi&&Str_СollectСoins&&Сollect rahaa
+fi&&TextBoxHash&&HASH
+fi&&TextBoxPassword&&Salasana
+fi&&TextBoxPlayerName&&Pelaajan nimi
+fr&&ButtonAuthorization&&S`identifier
+fr&&ButtonClanMemberLike&&Comme membres de la guilde
+fr&&ButtonCollectTreasure&&Collectez les trésors
+fr&&ButtonFindNewClan&&Trouvez nouvelle guilde Et comme
+fr&&ButtonLookInWell&&Regardez dans le puits
+fr&&ButtonPickupMoney&&Collecter des pièces
+fr&&ButtonPickupProduction&&Recueillir produits
+fr&&ButtonSocialLike&&Comme les voisins
+fr&&ButtonStartProduction&&Début de la production
+fr&&CheckBoxFindGuildAuto&&Recherche clans
+fr&&CheckBoxLikeAuto&&Automatiquement
+fr&&CheckBoxPointAuto&&Automatiquement
+fr&&CheckBoxProductionAuto&&Automatiquement
+fr&&CheckBoxTreasureAuto&&Automatiquement
+fr&&GroupBoxAuthorization&&Autorisation
+fr&&GroupBoxBalance&&Équilibre
+fr&&GroupBoxLike&&Ennoblissement
+fr&&GroupBoxProduction&&Production
+fr&&GroupBoxSP&&Les points de distribution
+fr&&GroupBoxTreasure&&Chasse au trésor
+fr&&GroupBoxUser&&Joueur
+fr&&LabelBlueprintCount&&Plans trouvés: 0
+fr&&LabelClanId&&Guilde actuel
+fr&&LabelGetPoints&&Obtenez des points
+fr&&LabelMedals&&Médailles
+fr&&LabelMedalsValue&&0
+fr&&LabelMoney&&Monnaie
+fr&&LabelMoneyValue&&0
+fr&&LabelPoints&&ÉQUILIBRE
+fr&&LabelPopulation&&Les résidents
+fr&&LabelPopulationValue&&0
+fr&&LabelPremium&&Prime
+fr&&LabelPremiumValue&&0
+fr&&LabelRank&&Évaluation
+fr&&LabelRankValue&&0
+fr&&LabelSP&&Disponible
+fr&&LabelSPCM&&0/0
+fr&&LabelSPCount&&0
+fr&&LabelSPValue&&0 / 10
+fr&&LabelSupplies&&Ressources
+fr&&LabelSuppliesValue&&0
+fr&&Str_Auto&&(auto)
+fr&&Str_AvailableVersoin&&Redémarrez l`application. Une nouvelle version est disponible
+fr&&Str_ClanId&&Guilde actuel
+fr&&Str_ClanMembersLike&&Comme membres de la Guilde
+fr&&Str_CollectProduction&&Collecte production
+fr&&Str_CollectTreasure&&Recherche d`un trésor
+fr&&Str_DecommissionedPoint&&Désarmé 1 point pour un groupe de
+fr&&Str_DontFindNewClan&&Vous ne trouvez pas une guilde appropriée
+fr&&Str_ErrorStartProduction&&Pas assez de ressources pour commencer
+fr&&Str_Expansions&&Extensions
+fr&&Str_FindNewClan&&Vous recherchez nouvelle guilde
+fr&&Str_Finished&&Fini
+fr&&Str_FoundBlueprint&&Plan Trouvé
+fr&&Str_FriendsLike&&Friends Like
+fr&&Str_Goods&&Des biens
+fr&&Str_InsertPoint1&&Utilisé
+fr&&Str_InsertPoint2&&Tourner
+fr&&Str_InternetError&&Erreur Internet
+fr&&Str_JionGuild&&Rejoindre la guilde
+fr&&Str_Launched&&Lancé
+fr&&Str_Like&&Ennoblissement
+fr&&Str_LogIn&&S`identifier
+fr&&Str_LogOut&&Se déconnecter
+fr&&Str_Medals&&Médailles
+fr&&Str_Money&&Monnaie
+fr&&Str_NeighborsLike&&Des voisins comme
+fr&&Str_NoCollectProduction&&Il n`y a pas produit fini
+fr&&Str_NoPoint&&Pas de SP disponible pour une utilisation
+fr&&Str_NoTechnology&&Aucune technologie pour explorer
+fr&&Str_NotStudiedAgriculture&&Technologie «Agriculture» n`a pas été étudié
+fr&&Str_NotStudiedBlacksmithing&&Technologie "Forge" n`a pas été étudié
+fr&&Str_NoСollectСoins&&Pas de numismatique
+fr&&Str_PlayersGuild&&Les joueurs de la guilde
+fr&&Str_Point&&Utiliser SP
+fr&&Str_Population&&Population
+fr&&Str_Premium&&PRIME
+fr&&Str_Production&&Production
+fr&&Str_Rank&&Évaluation
+fr&&Str_SelectWorld&&Choisir monde
+fr&&Str_ServiceError&&Erreur de service
+fr&&Str_SessionAborted&&La séance est interrompue
+fr&&Str_SP&&SP
+fr&&Str_SR&&Ressources saisonnières
+fr&&Str_Start&&Démarrer
+fr&&Str_StartProduction&&Exécutez la production
+fr&&Str_Stop&&Arrêtez
+fr&&Str_Supplies&&Provisions
+fr&&Str_Treasure&&Chasse au trésor
+fr&&Str_TreasureFind&&Les trésors collectés
+fr&&Str_TreasureWillFind&&Trésor trouverez
+fr&&Str_UsePoint&&Utilisation de SP
+fr&&Str_Versoin&&Versoin
+fr&&Str_WelkomeSite&&Allez sur le site allppl.ru
+fr&&Str_ZeroBalance&&Il est nécessaire de reconstituer le solde de points
+fr&&Str_Сollected&&Сollected
+fr&&Str_СollectСoins&&L`argent Сollect
+fr&&TextBoxHash&&HASH
+fr&&TextBoxPassword&&Mot de passe
+fr&&TextBoxPlayerName&&Nom de joueur
+gr&&ButtonAuthorization&&Σύνδεση
+gr&&ButtonClanMemberLike&&Όπως και τα μέλη του τάγματος
+gr&&ButtonCollectTreasure&&Συλλέξτε θησαυρούς
+gr&&ButtonFindNewClan&&Βρείτε νέα συντεχνία και αρέσει
+gr&&ButtonLookInWell&&Κοιτάξτε στο πηγάδι
+gr&&ButtonPickupMoney&&Συλλέξτε τα κέρματα
+gr&&ButtonPickupProduction&&Συλλέξτε τα προϊόντα
+gr&&ButtonSocialLike&&Όπως και γείτονες
+gr&&ButtonStartProduction&&Έναρξη παραγωγής
+gr&&CheckBoxFindGuildAuto&&Clans Αναζήτηση
+gr&&CheckBoxLikeAuto&&Αυτομάτως
+gr&&CheckBoxPointAuto&&Αυτομάτως
+gr&&CheckBoxProductionAuto&&Αυτομάτως
+gr&&CheckBoxTreasureAuto&&Αυτομάτως
+gr&&GroupBoxAuthorization&&Εξουσιοδότηση
+gr&&GroupBoxBalance&&Ισορροπία
+gr&&GroupBoxLike&&Εξευγενισμό
+gr&&GroupBoxProduction&&Παραγωγή
+gr&&GroupBoxSP&&Σημεία διανομής
+gr&&GroupBoxTreasure&&Κυνήγι θησαυρού
+gr&&GroupBoxUser&&Παίχτης
+gr&&LabelBlueprintCount&&Βρέθηκαν σχεδιαγράμματα: 0
+gr&&LabelClanId&&Τρέχουσα συντεχνία
+gr&&LabelGetPoints&&Πάρετε τα σημεία
+gr&&LabelMedals&&Μετάλλια
+gr&&LabelMedalsValue&&0
+gr&&LabelMoney&&Κέρματα
+gr&&LabelMoneyValue&&0
+gr&&LabelPoints&&ΙΣΟΡΡΟΠΊΑ
+gr&&LabelPopulation&&Κάτοικοι
+gr&&LabelPopulationValue&&0
+gr&&LabelPremium&&Ασφάλιστρο
+gr&&LabelPremiumValue&&0
+gr&&LabelRank&&Εκτίμηση
+gr&&LabelRankValue&&0
+gr&&LabelSP&&Διαθέσιμος
+gr&&LabelSPCM&&0/0
+gr&&LabelSPCount&&0
+gr&&LabelSPValue&&0 / 10
+gr&&LabelSupplies&&Πόροι
+gr&&LabelSuppliesValue&&0
+gr&&Str_Auto&&(αυτο)
+gr&&Str_AvailableVersoin&&Επανεκκίνηση της εφαρμογής. Μια νέα έκδοση είναι διαθέσιμη
+gr&&Str_ClanId&&Τρέχουσα συντεχνία
+gr&&Str_ClanMembersLike&&Όπως μέλη της συντεχνίας
+gr&&Str_CollectProduction&&Η συλλογή της παραγωγής
+gr&&Str_CollectTreasure&&Ψάχνετε για θησαυρό
+gr&&Str_DecommissionedPoint&&Το αποσυρόμενο 1 πόντος για την ομάδα του
+gr&&Str_DontFindNewClan&&Δεν κατάφερε να βρει τον κατάλληλο συντεχνία
+gr&&Str_ErrorStartProduction&&Πόροι δεν επαρκούν για να ξεκινήσετε
+gr&&Str_Expansions&&Επεκτάσεις
+gr&&Str_FindNewClan&&Ψάχνετε για νέα συντεχνία
+gr&&Str_Finished&&Πεπερασμένος
+gr&&Str_FoundBlueprint&&Βρέθηκαν σχέδιο
+gr&&Str_FriendsLike&&Όπως Φίλοι
+gr&&Str_Goods&&Εμπορεύματα
+gr&&Str_InsertPoint1&&Μεταχειρισμένος
+gr&&Str_InsertPoint2&&Γνέθω
+gr&&Str_InternetError&&Σφάλμα στο Internet
+gr&&Str_JionGuild&&Γίνετε μέλος του τάγματος
+gr&&Str_Launched&&Ξεκίνησε
+gr&&Str_Like&&Εξευγενισμό
+gr&&Str_LogIn&&Σύνδεση
+gr&&Str_LogOut&&Αποσυνδέομαι
+gr&&Str_Medals&&Μετάλλια
+gr&&Str_Money&&Χρήματα
+gr&&Str_NeighborsLike&&Όπως Γείτονες
+gr&&Str_NoCollectProduction&&Δεν υπάρχει τελικό προϊόν
+gr&&Str_NoPoint&&Δεν υπάρχει διαθέσιμη SP για χρήση
+gr&&Str_NoTechnology&&Δεν τεχνολογία για να διερευνήσει
+gr&&Str_NotStudiedAgriculture&&Τεχνολογία "Γεωργία" δεν έχει μελετηθεί
+gr&&Str_NotStudiedBlacksmithing&&Τεχνολογία "Blacksmithing" δεν έχει μελετηθεί
+gr&&Str_NoСollectСoins&&Όχι συλλογή νομισμάτων
+gr&&Str_PlayersGuild&&Παίκτες σε συντεχνία
+gr&&Str_Point&&Χρησιμοποιήστε SP
+gr&&Str_Population&&Πληθυσμός
+gr&&Str_Premium&&ΑΣΦΆΛΙΣΤΡΟ
+gr&&Str_Production&&Παραγωγή
+gr&&Str_Rank&&Εκτίμηση
+gr&&Str_SelectWorld&&Επιλέξτε κόσμο
+gr&&Str_ServiceError&&Σφάλμα υπηρεσίας
+gr&&Str_SessionAborted&&Η σύνοδος διακόπτεται
+gr&&Str_SP&&SP
+gr&&Str_SR&&Εποχιακά πόρων
+gr&&Str_Start&&Αρχή
+gr&&Str_StartProduction&&Εκτέλεση παραγωγής
+gr&&Str_Stop&&Στάση
+gr&&Str_Supplies&&Προμήθειες
+gr&&Str_Treasure&&Κυνήγι θησαυρού
+gr&&Str_TreasureFind&&Οι θησαυροί που συλλέγονται
+gr&&Str_TreasureWillFind&&Treasure θα βρείτε
+gr&&Str_UsePoint&&Χρησιμοποιώντας SP
+gr&&Str_Versoin&&Versoin
+gr&&Str_WelkomeSite&&Πήγαινε στο site allppl.ru
+gr&&Str_ZeroBalance&&Είναι απαραίτητο για την ανασύσταση της ισορροπίας των σημείων
+gr&&Str_Сollected&&Сollected
+gr&&Str_СollectСoins&&Сollect χρήματα
+gr&&TextBoxHash&&HASH
+gr&&TextBoxPassword&&Σύνθημα
+gr&&TextBoxPlayerName&&Όνομα παίχτη
+hu&&ButtonAuthorization&&Bejelentkezés
+hu&&ButtonClanMemberLike&&Mint egyesületi tagok
+hu&&ButtonCollectTreasure&&Kincseket gyűjteni
+hu&&ButtonFindNewClan&&Találj új egyesületi és Like
+hu&&ButtonLookInWell&&Nézd a kútba
+hu&&ButtonPickupMoney&&Gyűjtse össze az érmék
+hu&&ButtonPickupProduction&&Gyűjtsd termékek
+hu&&ButtonSocialLike&&Mint szomszédok
+hu&&ButtonStartProduction&&Termelés kezdete
+hu&&CheckBoxFindGuildAuto&&Keresés klánok
+hu&&CheckBoxLikeAuto&&Automatikusan
+hu&&CheckBoxPointAuto&&Automatikusan
+hu&&CheckBoxProductionAuto&&Automatikusan
+hu&&CheckBoxTreasureAuto&&Automatikusan
+hu&&GroupBoxAuthorization&&Engedély
+hu&&GroupBoxBalance&&Egyensúly
+hu&&GroupBoxLike&&Nemesedő
+hu&&GroupBoxProduction&&Termelés
+hu&&GroupBoxSP&&Terjesztési pontok
+hu&&GroupBoxTreasure&&Kincsvadászat
+hu&&GroupBoxUser&&Játékos
+hu&&LabelBlueprintCount&&Talált tervrajzok: 0
+hu&&LabelClanId&&Jelenlegi egyesületi
+hu&&LabelGetPoints&&Kap pontot
+hu&&LabelMedals&&Érmek
+hu&&LabelMedalsValue&&0
+hu&&LabelMoney&&Érmék
+hu&&LabelMoneyValue&&0
+hu&&LabelPoints&&EGYENSÚLY
+hu&&LabelPopulation&&Lakosok
+hu&&LabelPopulationValue&&0
+hu&&LabelPremium&&Prémium
+hu&&LabelPremiumValue&&0
+hu&&LabelRank&&Értékelés
+hu&&LabelRankValue&&0
+hu&&LabelSP&&Elérhető
+hu&&LabelSPCM&&0/0
+hu&&LabelSPCount&&0
+hu&&LabelSPValue&&0 / 10
+hu&&LabelSupplies&&Erőforrás
+hu&&LabelSuppliesValue&&0
+hu&&Str_Auto&&(auto)
+hu&&Str_AvailableVersoin&&Alkalmazás újraindítása. Egy új verzió
+hu&&Str_ClanId&&Jelenlegi egyesületi
+hu&&Str_ClanMembersLike&&Céh tagjai Like
+hu&&Str_CollectProduction&&Gyűjtés termelés
+hu&&Str_CollectTreasure&&Keresett kincs
+hu&&Str_DecommissionedPoint&&Leszerelt 1 pont egy csoportja
+hu&&Str_DontFindNewClan&&Nem találja a megfelelő egyesületi
+hu&&Str_ErrorStartProduction&&Nincs elég erőforrás kezdeni
+hu&&Str_Expansions&&Bővítések
+hu&&Str_FindNewClan&&Keresi az új egyesületi
+hu&&Str_Finished&&Befejezett
+hu&&Str_FoundBlueprint&&Talált tervét
+hu&&Str_FriendsLike&&Barátok Like
+hu&&Str_Goods&&Áruk
+hu&&Str_InsertPoint1&&Használt
+hu&&Str_InsertPoint2&&SP
+hu&&Str_InternetError&&Internet hiba
+hu&&Str_JionGuild&&Csatlakozz az egyesülettel
+hu&&Str_Launched&&Elindította
+hu&&Str_Like&&Nemesedő
+hu&&Str_LogIn&&Bejelentkezés
+hu&&Str_LogOut&&Kijelentkezés
+hu&&Str_Medals&&Érmek
+hu&&Str_Money&&Pénz
+hu&&Str_NeighborsLike&&A szomszédok Like
+hu&&Str_NoCollectProduction&&Nincs késztermék
+hu&&Str_NoPoint&&Nem áll rendelkezésre SP használatra
+hu&&Str_NoTechnology&&Nem a technológia, hogy vizsgálja
+hu&&Str_NotStudiedAgriculture&&Technológia "Mezőgazdaság" nem vizsgálták
+hu&&Str_NotStudiedBlacksmithing&&Technológia "Kovácsolás" nem vizsgálták
+hu&&Str_NoСollectСoins&&Nem érme gyűjtő
+hu&&Str_PlayersGuild&&A játékosok egyesületi
+hu&&Str_Point&&Használjon SP
+hu&&Str_Population&&Lakosság
+hu&&Str_Premium&&PRÉMIUM
+hu&&Str_Production&&Termelés
+hu&&Str_Rank&&Értékelés
+hu&&Str_SelectWorld&&Válassza ki a világot
+hu&&Str_ServiceError&&Szolgáltatás hiba
+hu&&Str_SessionAborted&&A munkamenet megszakad
+hu&&Str_SP&&SP
+hu&&Str_SR&&Szezonális erőforrások
+hu&&Str_Start&&Indul
+hu&&Str_StartProduction&&Fuss termelés
+hu&&Str_Stop&&Állj meg
+hu&&Str_Supplies&&Supplies
+hu&&Str_Treasure&&Kincsvadászat
+hu&&Str_TreasureFind&&A kincsek gyűjtött
+hu&&Str_TreasureWillFind&&Kincs talál
+hu&&Str_UsePoint&&Segítségével SP
+hu&&Str_Versoin&&Versoin
+hu&&Str_WelkomeSite&&Ugrás az oldal allppl.ru
+hu&&Str_ZeroBalance&&Szükséges, hogy pótolja az egyensúlyt a pontok
+hu&&Str_Сollected&&Сollected
+hu&&Str_СollectСoins&&Сollect pénzt
+hu&&TextBoxHash&&HASH
+hu&&TextBoxPassword&&Jelszó
+hu&&TextBoxPlayerName&&Játékos neve
+it&&ButtonAuthorization&&Accesso
+it&&ButtonClanMemberLike&&Come membri della gilda
+it&&ButtonCollectTreasure&&Raccogliere tesori
+it&&ButtonFindNewClan&&Trova nuova gilda e come
+it&&ButtonLookInWell&&Guardate nel pozzo
+it&&ButtonPickupMoney&&Raccogli le monete
+it&&ButtonPickupProduction&&Raccogliere prodotti
+it&&ButtonSocialLike&&Come vicini di casa
+it&&ButtonStartProduction&&Inizio della produzione
+it&&CheckBoxFindGuildAuto&&Cerca clan
+it&&CheckBoxLikeAuto&&Automaticamente
+it&&CheckBoxPointAuto&&Automaticamente
+it&&CheckBoxProductionAuto&&Automaticamente
+it&&CheckBoxTreasureAuto&&Automaticamente
+it&&GroupBoxAuthorization&&Autorizzazione
+it&&GroupBoxBalance&&Bilancio
+it&&GroupBoxLike&&Nobilitante
+it&&GroupBoxProduction&&Produzione
+it&&GroupBoxSP&&I punti di distribuzione
+it&&GroupBoxTreasure&&Caccia al tesoro
+it&&GroupBoxUser&&Giocatore
+it&&LabelBlueprintCount&&Modelli trovati: 0
+it&&LabelClanId&&Gilda attuale
+it&&LabelGetPoints&&Ottenere punti
+it&&LabelMedals&&Medaglie
+it&&LabelMedalsValue&&0
+it&&LabelMoney&&Monete
+it&&LabelMoneyValue&&0
+it&&LabelPoints&&BILANCIO
+it&&LabelPopulation&&Gli abitanti
+it&&LabelPopulationValue&&0
+it&&LabelPremium&&Premio
+it&&LabelPremiumValue&&0
+it&&LabelRank&&Valutazione
+it&&LabelRankValue&&0
+it&&LabelSP&&A disposizione
+it&&LabelSPCM&&0/0
+it&&LabelSPCount&&0
+it&&LabelSPValue&&0 / 10
+it&&LabelSupplies&&Risorse
+it&&LabelSuppliesValue&&0
+it&&Str_Auto&&(auto)
+it&&Str_AvailableVersoin&&Applicazione Riavvia. Una nuova versione è disponibile
+it&&Str_ClanId&&Gilda attuale
+it&&Str_ClanMembersLike&&Guild membri piace
+it&&Str_CollectProduction&&Produzione di Raccolta
+it&&Str_CollectTreasure&&In cerca di tesoro
+it&&Str_DecommissionedPoint&&Dismesso 1 Punto per un gruppo di
+it&&Str_DontFindNewClan&&Non hai trovato una gilda adatto
+it&&Str_ErrorStartProduction&&Non abbastanza risorse per iniziare
+it&&Str_Expansions&&Espansioni
+it&&Str_FindNewClan&&In cerca di nuova gilda
+it&&Str_Finished&&Finito
+it&&Str_FoundBlueprint&&Blueprint Trovato
+it&&Str_FriendsLike&&Friends Like
+it&&Str_Goods&&Articoli
+it&&Str_InsertPoint1&&Usato
+it&&Str_InsertPoint2&&SP in
+it&&Str_InternetError&&Errore di Internet
+it&&Str_JionGuild&&Unisciti alla Gilda
+it&&Str_Launched&&Lanciato
+it&&Str_Like&&Nobilitante
+it&&Str_LogIn&&Accesso
+it&&Str_LogOut&&Disconnettersi
+it&&Str_Medals&&Medaglie
+it&&Str_Money&&I soldi
+it&&Str_NeighborsLike&&Vicini come
+it&&Str_NoCollectProduction&&Non vi è alcun prodotto finito
+it&&Str_NoPoint&&Nessuna SP disponibile per uso
+it&&Str_NoTechnology&&Nessuna tecnologia per esplorare
+it&&Str_NotStudiedAgriculture&&Tecnologia "Agricoltura" non è stato studiato
+it&&Str_NotStudiedBlacksmithing&&Tecnologia "Blacksmithing" non è stato studiato
+it&&Str_NoСollectСoins&&Nessun numismatica
+it&&Str_PlayersGuild&&Giocatori in gilda
+it&&Str_Point&&Usa SP
+it&&Str_Population&&Popolazione
+it&&Str_Premium&&PREMIUM
+it&&Str_Production&&Produzione
+it&&Str_Rank&&Valutazione
+it&&Str_SelectWorld&&Seleziona mondo
+it&&Str_ServiceError&&Errore di servizio
+it&&Str_SessionAborted&&La sessione viene interrotta
+it&&Str_SP&&SP
+it&&Str_SR&&Risorse stagionali
+it&&Str_Start&&Cominciare
+it&&Str_StartProduction&&Produzione Run
+it&&Str_Stop&&Stop
+it&&Str_Supplies&&Supplies
+it&&Str_Treasure&&Caccia al tesoro
+it&&Str_TreasureFind&&I tesori raccolti
+it&&Str_TreasureWillFind&&Tesoro troverà
+it&&Str_UsePoint&&Utilizzo di SP
+it&&Str_Versoin&&Versoin
+it&&Str_WelkomeSite&&Vai al sito allppl.ru
+it&&Str_ZeroBalance&&È necessario ricostituire il saldo punti
+it&&Str_Сollected&&Сollected
+it&&Str_СollectСoins&&Soldi Сollect
+it&&TextBoxHash&&HASH
+it&&TextBoxPassword&&Parola d`ordine
+it&&TextBoxPlayerName&&Nome del giocatore
+nl&&ButtonAuthorization&&Aanmelden
+nl&&ButtonClanMemberLike&&Net gildeleden
+nl&&ButtonCollectTreasure&&Verzamelen van schatten
+nl&&ButtonFindNewClan&&Vind nieuwe gilde en Net
+nl&&ButtonLookInWell&&Kijk in de put
+nl&&ButtonPickupMoney&&Munten verzamelen
+nl&&ButtonPickupProduction&&Verzamelen producten
+nl&&ButtonSocialLike&&Net als buren
+nl&&ButtonStartProduction&&Start van de productie
+nl&&CheckBoxFindGuildAuto&&Zoeken clans
+nl&&CheckBoxLikeAuto&&Automatisch
+nl&&CheckBoxPointAuto&&Automatisch
+nl&&CheckBoxProductionAuto&&Automatisch
+nl&&CheckBoxTreasureAuto&&Automatisch
+nl&&GroupBoxAuthorization&&Machtiging
+nl&&GroupBoxBalance&&Saldo
+nl&&GroupBoxLike&&Verheffende
+nl&&GroupBoxProduction&&Productie
+nl&&GroupBoxSP&&Distributiepunten
+nl&&GroupBoxTreasure&&Schattenjacht
+nl&&GroupBoxUser&&Speler
+nl&&LabelBlueprintCount&&Blauwdrukken gevonden: 0
+nl&&LabelClanId&&Huidige gilde
+nl&&LabelGetPoints&&GET PUNTEN
+nl&&LabelMedals&&Medailles
+nl&&LabelMedalsValue&&0
+nl&&LabelMoney&&Munten
+nl&&LabelMoneyValue&&0
+nl&&LabelPoints&&SALDO
+nl&&LabelPopulation&&Inwoners
+nl&&LabelPopulationValue&&0
+nl&&LabelPremium&&Premie
+nl&&LabelPremiumValue&&0
+nl&&LabelRank&&Rating
+nl&&LabelRankValue&&0
+nl&&LabelSP&&Beschikbaar
+nl&&LabelSPCM&&0/0
+nl&&LabelSPCount&&0
+nl&&LabelSPValue&&0 / 10
+nl&&LabelSupplies&&Middelen
+nl&&LabelSuppliesValue&&0
+nl&&Str_Auto&&(auto)
+nl&&Str_AvailableVersoin&&Herstart toepassing. Een nieuwe versie is beschikbaar
+nl&&Str_ClanId&&Huidige gilde
+nl&&Str_ClanMembersLike&&Gildeleden Net
+nl&&Str_CollectProduction&&Verzamelen productie
+nl&&Str_CollectTreasure&&Op zoek naar de schat
+nl&&Str_DecommissionedPoint&&Ontmanteld 1 punt voor een groep
+nl&&Str_DontFindNewClan&&Heeft een geschikte gilde niet vinden
+nl&&Str_ErrorStartProduction&&Niet genoeg middelen om te beginnen
+nl&&Str_Expansions&&Uitbreidingen
+nl&&Str_FindNewClan&&Op zoek naar een nieuwe gilde
+nl&&Str_Finished&&Geëindigd
+nl&&Str_FoundBlueprint&&Gevonden blauwdruk
+nl&&Str_FriendsLike&&Vrienden Net
+nl&&Str_Goods&&Goederen
+nl&&Str_InsertPoint1&&Gebruikt
+nl&&Str_InsertPoint2&&SP
+nl&&Str_InternetError&&Internet fout
+nl&&Str_JionGuild&&Word lid van de gilde
+nl&&Str_Launched&&Gelanceerd
+nl&&Str_Like&&Verheffende
+nl&&Str_LogIn&&Aanmelden
+nl&&Str_LogOut&&Uitloggen
+nl&&Str_Medals&&Medailles
+nl&&Str_Money&&Geld
+nl&&Str_NeighborsLike&&Net als buren
+nl&&Str_NoCollectProduction&&Er is geen eindproduct
+nl&&Str_NoPoint&&Geen beschikbaar SP voor gebruik
+nl&&Str_NoTechnology&&Geen technologie te verkennen
+nl&&Str_NotStudiedAgriculture&&Technologie "Landbouw" is niet onderzocht
+nl&&Str_NotStudiedBlacksmithing&&Technologie "smeden" is niet onderzocht
+nl&&Str_NoСollectСoins&&Geen munten verzamelen
+nl&&Str_PlayersGuild&&Spelers in guild
+nl&&Str_Point&&Gebruik SP
+nl&&Str_Population&&Bevolking
+nl&&Str_Premium&&PREMIE
+nl&&Str_Production&&Productie
+nl&&Str_Rank&&Rating
+nl&&Str_SelectWorld&&Selecteer wereld
+nl&&Str_ServiceError&&Dienst fout
+nl&&Str_SessionAborted&&De sessie wordt onderbroken
+nl&&Str_SP&&SP
+nl&&Str_SR&&Seizoensgebonden middelen
+nl&&Str_Start&&Begin
+nl&&Str_StartProduction&&Run productie
+nl&&Str_Stop&&Stop
+nl&&Str_Supplies&&Benodigdheden
+nl&&Str_Treasure&&Schattenjacht
+nl&&Str_TreasureFind&&De schatten verzamelde
+nl&&Str_TreasureWillFind&&Schat vinden
+nl&&Str_UsePoint&&Met behulp van SP
+nl&&Str_Versoin&&Versoin
+nl&&Str_WelkomeSite&&Ga naar de site allppl.ru
+nl&&Str_ZeroBalance&&Het is noodzakelijk om het evenwicht van punten vullen
+nl&&Str_Сollected&&Сollected
+nl&&Str_СollectСoins&&Сollect geld
+nl&&TextBoxHash&&HASH
+nl&&TextBoxPassword&&Wachtwoord
+nl&&TextBoxPlayerName&&Naam speler
+no&&ButtonAuthorization&&Logg inn
+no&&ButtonClanMemberLike&&Som guild medlemmer
+no&&ButtonCollectTreasure&&Samle skatter
+no&&ButtonFindNewClan&&Finn nye laug og du
+no&&ButtonLookInWell&&Se inn i brønnen
+no&&ButtonPickupMoney&&Samle mynter
+no&&ButtonPickupProduction&&Samle produkter
+no&&ButtonSocialLike&&Som naboer
+no&&ButtonStartProduction&&Produksjonsstart
+no&&CheckBoxFindGuildAuto&&Søke klaner
+no&&CheckBoxLikeAuto&&Automatisk
+no&&CheckBoxPointAuto&&Automatisk
+no&&CheckBoxProductionAuto&&Automatisk
+no&&CheckBoxTreasureAuto&&Automatisk
+no&&GroupBoxAuthorization&&Autorisasjon
+no&&GroupBoxBalance&&Balansere
+no&&GroupBoxLike&&Foredlende
+no&&GroupBoxProduction&&Produksjon
+no&&GroupBoxSP&&Distribusjonspunkter
+no&&GroupBoxTreasure&&Skattejakt
+no&&GroupBoxUser&&Spiller
+no&&LabelBlueprintCount&&Funnet blåkopier: 0
+no&&LabelClanId&&Nåværende Klanen
+no&&LabelGetPoints&&FÅ POENG
+no&&LabelMedals&&Medaljer
+no&&LabelMedalsValue&&0
+no&&LabelMoney&&Mynter
+no&&LabelMoneyValue&&0
+no&&LabelPoints&&BALANSERE
+no&&LabelPopulation&&Beboere
+no&&LabelPopulationValue&&0
+no&&LabelPremium&&Premium
+no&&LabelPremiumValue&&0
+no&&LabelRank&&Rating
+no&&LabelRankValue&&0
+no&&LabelSP&&Tilgjengelig
+no&&LabelSPCM&&0/0
+no&&LabelSPCount&&0
+no&&LabelSPValue&&0 / 10
+no&&LabelSupplies&&Ressurser
+no&&LabelSuppliesValue&&0
+no&&Str_Auto&&(auto)
+no&&Str_AvailableVersoin&&Restart programmet. En ny versjon er tilgjengelig
+no&&Str_ClanId&&Nåværende Klanen
+no&&Str_ClanMembersLike&&Klanmedlemmer Som
+no&&Str_CollectProduction&&Samle produksjon
+no&&Str_CollectTreasure&&På jakt etter skatten
+no&&Str_DecommissionedPoint&&Utrangerte 1 poeng for en gruppe
+no&&Str_DontFindNewClan&&Fant ikke en passende klan
+no&&Str_ErrorStartProduction&&Ikke nok ressurser til å starte
+no&&Str_Expansions&&Utvidelser
+no&&Str_FindNewClan&&Leter etter ny klan
+no&&Str_Finished&&Ferdig
+no&&Str_FoundBlueprint&&Funnet blåkopi
+no&&Str_FriendsLike&&Friends Liker
+no&&Str_Goods&&Varer
+no&&Str_InsertPoint1&&Brukt
+no&&Str_InsertPoint2&&Snurre rundt
+no&&Str_InternetError&&Internett feil
+no&&Str_JionGuild&&Bli med i Klanen
+no&&Str_Launched&&Lansert
+no&&Str_Like&&Foredlende
+no&&Str_LogIn&&Logg inn
+no&&Str_LogOut&&Logg ut
+no&&Str_Medals&&Medaljer
+no&&Str_Money&&Penger
+no&&Str_NeighborsLike&&Neighbours Liker
+no&&Str_NoCollectProduction&&Det er ingen ferdig produkt
+no&&Str_NoPoint&&Ingen tilgjengelig SP for bruk
+no&&Str_NoTechnology&&Ingen teknologi for å utforske
+no&&Str_NotStudiedAgriculture&&Technology "Landbruk" er ikke undersøkt
+no&&Str_NotStudiedBlacksmithing&&Technology "Blacksmithing" er ikke undersøkt
+no&&Str_NoСollectСoins&&Ingen Myntsamling
+no&&Str_PlayersGuild&&Spillere i Klanen
+no&&Str_Point&&Bruk SP
+no&&Str_Population&&Befolkning
+no&&Str_Premium&&PREMIUM
+no&&Str_Production&&Produksjon
+no&&Str_Rank&&Rating
+no&&Str_SelectWorld&&Velg verden
+no&&Str_ServiceError&&Servicefeil
+no&&Str_SessionAborted&&Økten blir avbrutt
+no&&Str_SP&&SP
+no&&Str_SR&&Sesong ressurser
+no&&Str_Start&&Begynne
+no&&Str_StartProduction&&Kjør produksjon
+no&&Str_Stop&&Stoppe
+no&&Str_Supplies&&Forsyninger
+no&&Str_Treasure&&Skattejakt
+no&&Str_TreasureFind&&Skattene samlet
+no&&Str_TreasureWillFind&&Skatten vil finne
+no&&Str_UsePoint&&Bruke SP
+no&&Str_Versoin&&Versoin
+no&&Str_WelkomeSite&&Gå til nettstedet allppl.ru
+no&&Str_ZeroBalance&&Det er nødvendig å fylle opp balansen av punktene
+no&&Str_Сollected&&Сollected
+no&&Str_СollectСoins&&Сollect penger
+no&&TextBoxHash&&HASH
+no&&TextBoxPassword&&Passord
+no&&TextBoxPlayerName&&Spillernavn
+pl&&ButtonAuthorization&&Zaloguj się
+pl&&ButtonClanMemberLike&&Podobnie jak członkowie gildii
+pl&&ButtonCollectTreasure&&Zbierać skarby
+pl&&ButtonFindNewClan&&Znajdź nową gildię i odczuwalna
+pl&&ButtonLookInWell&&Spójrz w studni
+pl&&ButtonPickupMoney&&Zbierać monety
+pl&&ButtonPickupProduction&&Odbiór produktów
+pl&&ButtonSocialLike&&Jak sąsiadów
+pl&&ButtonStartProduction&&Rozpoczęcie produkcji
+pl&&CheckBoxFindGuildAuto&&Szukaj klany
+pl&&CheckBoxLikeAuto&&Automatycznie
+pl&&CheckBoxPointAuto&&Automatycznie
+pl&&CheckBoxProductionAuto&&Automatycznie
+pl&&CheckBoxTreasureAuto&&Automatycznie
+pl&&GroupBoxAuthorization&&Upoważnienie
+pl&&GroupBoxBalance&&Saldo
+pl&&GroupBoxLike&&Uszlachetniający
+pl&&GroupBoxProduction&&Produkcja
+pl&&GroupBoxSP&&Punkty dystrybucji
+pl&&GroupBoxTreasure&&Poszukiwanie skarbu
+pl&&GroupBoxUser&&Gracz
+pl&&LabelBlueprintCount&&Znaleziono plany: 0
+pl&&LabelClanId&&Aktualny gildii
+pl&&LabelGetPoints&&Zdobyć punkty
+pl&&LabelMedals&&Medale
+pl&&LabelMedalsValue&&0
+pl&&LabelMoney&&Monety
+pl&&LabelMoneyValue&&0
+pl&&LabelPoints&&SALDO
+pl&&LabelPopulation&&Mieszkańcy
+pl&&LabelPopulationValue&&0
+pl&&LabelPremium&&Premia
+pl&&LabelPremiumValue&&0
+pl&&LabelRank&&Ocena
+pl&&LabelRankValue&&0
+pl&&LabelSP&&Do dyspozycji
+pl&&LabelSPCM&&0/0
+pl&&LabelSPCount&&0
+pl&&LabelSPValue&&0 / 10
+pl&&LabelSupplies&&Zasoby
+pl&&LabelSuppliesValue&&0
+pl&&Str_Auto&&(automatyczny)
+pl&&Str_AvailableVersoin&&Restart programu. Nowa wersja jest dostępna
+pl&&Str_ClanId&&Aktualny gildii
+pl&&Str_ClanMembersLike&&Członkowie gildii Like
+pl&&Str_CollectProduction&&Produkcja zbierania
+pl&&Str_CollectTreasure&&Szukasz skarbów
+pl&&Str_DecommissionedPoint&&Wycofany ze służby 1 Punkt dla grupy
+pl&&Str_DontFindNewClan&&Nie możesz znaleźć odpowiedniego gildii
+pl&&Str_ErrorStartProduction&&Za mało zasobów, aby rozpocząć
+pl&&Str_Expansions&&Rozszerzenia
+pl&&Str_FindNewClan&&Szukasz nowej gildii
+pl&&Str_Finished&&Gotowe
+pl&&Str_FoundBlueprint&&Znaleziony plan
+pl&&Str_FriendsLike&&Znajomi Like
+pl&&Str_Goods&&Towary
+pl&&Str_InsertPoint1&&Używany
+pl&&Str_InsertPoint2&&Spin
+pl&&Str_InternetError&&Błąd internetowe
+pl&&Str_JionGuild&&Dołącz do gildii
+pl&&Str_Launched&&Rozpoczęty
+pl&&Str_Like&&Uszlachetniający
+pl&&Str_LogIn&&Zaloguj się
+pl&&Str_LogOut&&Wyloguj
+pl&&Str_Medals&&Medale
+pl&&Str_Money&&pieniądze
+pl&&Str_NeighborsLike&&Sąsiedzi Like
+pl&&Str_NoCollectProduction&&Nie jest produkt końcowy
+pl&&Str_NoPoint&&Brak SP do użytku
+pl&&Str_NoTechnology&&Nie technologii w celu zbadania
+pl&&Str_NotStudiedAgriculture&&Nie badano Technologia "Rolnictwo"
+pl&&Str_NotStudiedBlacksmithing&&Nie badano Technologia "Kowalstwo"
+pl&&Str_NoСollectСoins&&Nie zbieranie monet
+pl&&Str_PlayersGuild&&Gracze w gildii
+pl&&Str_Point&&Wykorzystanie SP
+pl&&Str_Population&&Populacja
+pl&&Str_Premium&&PREMIA
+pl&&Str_Production&&Produkcja
+pl&&Str_Rank&&Ocena
+pl&&Str_SelectWorld&&Wybierz świat
+pl&&Str_ServiceError&&Błąd serwisowy
+pl&&Str_SessionAborted&&Sesja przerwana
+pl&&Str_SP&&SP
+pl&&Str_SR&&Zasoby sezonowe
+pl&&Str_Start&&Początek
+pl&&Str_StartProduction&&Uruchomić produkcję
+pl&&Str_Stop&&Zatrzymaj się
+pl&&Str_Supplies&&Kieszonkowe dzieci
+pl&&Str_Treasure&&Poszukiwanie skarbu
+pl&&Str_TreasureFind&&Skarby gromadzone
+pl&&Str_TreasureWillFind&&Skarb znajdzie
+pl&&Str_UsePoint&&Korzystanie SP
+pl&&Str_Versoin&&Versoin
+pl&&Str_WelkomeSite&&Przejdź do allppl.ru stronie
+pl&&Str_ZeroBalance&&Jest to niezbędne do uzupełnienia bilansu punktów
+pl&&Str_Сollected&&Сollected
+pl&&Str_СollectСoins&&Сollect pieniądze
+pl&&TextBoxHash&&HASH
+pl&&TextBoxPassword&&Hasło
+pl&&TextBoxPlayerName&&Nazwa gracza
+pt&&ButtonAuthorization&&Entrar
+pt&&ButtonClanMemberLike&&Como membros da guilda
+pt&&ButtonCollectTreasure&&Coletar tesouros
+pt&&ButtonFindNewClan&&Encontrar novos aliança e como
+pt&&ButtonLookInWell&&Olhe para dentro do poço
+pt&&ButtonPickupMoney&&Coletar moedas
+pt&&ButtonPickupProduction&&Coletar produtos
+pt&&ButtonSocialLike&&Como vizinhos
+pt&&ButtonStartProduction&&Início da produção
+pt&&CheckBoxFindGuildAuto&&Pesquisar clãs
+pt&&CheckBoxLikeAuto&&Automaticamente
+pt&&CheckBoxPointAuto&&Automaticamente
+pt&&CheckBoxProductionAuto&&Automaticamente
+pt&&CheckBoxTreasureAuto&&Automaticamente
+pt&&GroupBoxAuthorization&&Autorização
+pt&&GroupBoxBalance&&Equilibrar
+pt&&GroupBoxLike&&Enobrecedor
+pt&&GroupBoxProduction&&Produção
+pt&&GroupBoxSP&&Pontos de distribuição
+pt&&GroupBoxTreasure&&Caça ao tesouro
+pt&&GroupBoxUser&&Jogador
+pt&&LabelBlueprintCount&&Blueprints encontrados: 0
+pt&&LabelClanId&&Clã atual
+pt&&LabelGetPoints&&Obter pontos
+pt&&LabelMedals&&Medalhas
+pt&&LabelMedalsValue&&0
+pt&&LabelMoney&&Moedas
+pt&&LabelMoneyValue&&0
+pt&&LabelPoints&&EQUILIBRAR
+pt&&LabelPopulation&&Moradores
+pt&&LabelPopulationValue&&0
+pt&&LabelPremium&&Prêmio
+pt&&LabelPremiumValue&&0
+pt&&LabelRank&&Classificação
+pt&&LabelRankValue&&0
+pt&&LabelSP&&Disponível
+pt&&LabelSPCM&&0/0
+pt&&LabelSPCount&&0
+pt&&LabelSPValue&&0 / 10
+pt&&LabelSupplies&&Recursos
+pt&&LabelSuppliesValue&&0
+pt&&Str_Auto&&(auto)
+pt&&Str_AvailableVersoin&&Aplicação Restart. A nova versão está disponível
+pt&&Str_ClanId&&Clã atual
+pt&&Str_ClanMembersLike&&Como membros da guilda
+pt&&Str_CollectProduction&&Coleta de produção
+pt&&Str_CollectTreasure&&Procurando por tesouro
+pt&&Str_DecommissionedPoint&&Desmantelada 1 ponto por um grupo de
+pt&&Str_DontFindNewClan&&Não encontrou uma aliança adequado
+pt&&Str_ErrorStartProduction&&Não há recursos suficientes para começar
+pt&&Str_Expansions&&Expansões
+pt&&Str_FindNewClan&&Procurando uma guild nova
+pt&&Str_Finished&&Acabado
+pt&&Str_FoundBlueprint&&Modelo encontrado
+pt&&Str_FriendsLike&&Friends Like
+pt&&Str_Goods&&Bens
+pt&&Str_InsertPoint1&&Usava
+pt&&Str_InsertPoint2&&Girar
+pt&&Str_InternetError&&Erro Internet
+pt&&Str_JionGuild&&Junte-se à aliança
+pt&&Str_Launched&&Lançada
+pt&&Str_Like&&Enobrecedor
+pt&&Str_LogIn&&Entrar
+pt&&Str_LogOut&&Sair
+pt&&Str_Medals&&Medalhas
+pt&&Str_Money&&Dinheiro
+pt&&Str_NeighborsLike&&Vizinhos como
+pt&&Str_NoCollectProduction&&Não há produto acabado
+pt&&Str_NoPoint&&Não SP disponíveis para uso
+pt&&Str_NoTechnology&&Nenhuma tecnologia para explorar
+pt&&Str_NotStudiedAgriculture&&Tecnologia "Agricultura" não foi estudado
+pt&&Str_NotStudiedBlacksmithing&&Tecnologia "Ferraria" não foi estudado
+pt&&Str_NoСollectСoins&&Sem coleta de moeda
+pt&&Str_PlayersGuild&&Jogadores na guilda
+pt&&Str_Point&&Use SP
+pt&&Str_Population&&População
+pt&&Str_Premium&&PREMIUM
+pt&&Str_Production&&Produção
+pt&&Str_Rank&&Classificação
+pt&&Str_SelectWorld&&Selecione mundo
+pt&&Str_ServiceError&&Erro de serviço
+pt&&Str_SessionAborted&&A sessão é interrompida
+pt&&Str_SP&&SP
+pt&&Str_SR&&Recursos sazonais
+pt&&Str_Start&&Começar
+pt&&Str_StartProduction&&Execute produção
+pt&&Str_Stop&&Pare
+pt&&Str_Supplies&&Suprimentos
+pt&&Str_Treasure&&Caça ao tesouro
+pt&&Str_TreasureFind&&Os tesouros recolhidos
+pt&&Str_TreasureWillFind&&Treasure vai encontrar
+pt&&Str_UsePoint&&Usando SP
+pt&&Str_Versoin&&Versoin
+pt&&Str_WelkomeSite&&Ir para o site de allppl.ru
+pt&&Str_ZeroBalance&&É necessário para repor o equilíbrio de pontos
+pt&&Str_Сollected&&Сollected
+pt&&Str_СollectСoins&&Dinheiro Сollect
+pt&&TextBoxHash&&HASH
+pt&&TextBoxPassword&&Senha
+pt&&TextBoxPlayerName&&Nome do jogador
+ro&&ButtonAuthorization&&Conecta
+ro&&ButtonClanMemberLike&&Ca membrii breslei
+ro&&ButtonCollectTreasure&&Colecta comori
+ro&&ButtonFindNewClan&&Găsi noi breaslă și Ca
+ro&&ButtonLookInWell&&Uită-te în bine
+ro&&ButtonPickupMoney&&Colecta monede
+ro&&ButtonPickupProduction&&Colecta produse
+ro&&ButtonSocialLike&&Ca vecini
+ro&&ButtonStartProduction&&Începerea producției
+ro&&CheckBoxFindGuildAuto&&Căutare clanuri
+ro&&CheckBoxLikeAuto&&Automat
+ro&&CheckBoxPointAuto&&Automat
+ro&&CheckBoxProductionAuto&&Automat
+ro&&CheckBoxTreasureAuto&&Automat
+ro&&GroupBoxAuthorization&&Autorizare
+ro&&GroupBoxBalance&&Echilibru
+ro&&GroupBoxLike&&Înnobilare
+ro&&GroupBoxProduction&&Productie
+ro&&GroupBoxSP&&Puncte de distribuție
+ro&&GroupBoxTreasure&&Vânătoare de comori
+ro&&GroupBoxUser&&Jucător
+ro&&LabelBlueprintCount&&Planurile găsite: 0
+ro&&LabelClanId&&Breasla curent
+ro&&LabelGetPoints&&Obține puncte
+ro&&LabelMedals&&Medalii
+ro&&LabelMedalsValue&&0
+ro&&LabelMoney&&Monede
+ro&&LabelMoneyValue&&0
+ro&&LabelPoints&&ECHILIBRU
+ro&&LabelPopulation&&Locuitorii
+ro&&LabelPopulationValue&&0
+ro&&LabelPremium&&Premium
+ro&&LabelPremiumValue&&0
+ro&&LabelRank&&Evaluare
+ro&&LabelRankValue&&0
+ro&&LabelSP&&Disponibil
+ro&&LabelSPCM&&0/0
+ro&&LabelSPCount&&0
+ro&&LabelSPValue&&0 / 10
+ro&&LabelSupplies&&Resurse
+ro&&LabelSuppliesValue&&0
+ro&&Str_Auto&&(auto)
+ro&&Str_AvailableVersoin&&Aplicație Restart. O nouă versiune este disponibilă
+ro&&Str_ClanId&&Breasla curent
+ro&&Str_ClanMembersLike&&Membrii breslei Ca
+ro&&Str_CollectProduction&&Colectarea de producție
+ro&&Str_CollectTreasure&&În căutarea de comori
+ro&&Str_DecommissionedPoint&&Dezafectate 1 punct pentru un grup de
+ro&&Str_DontFindNewClan&&Nu ati gasit o breaslă potrivit
+ro&&Str_ErrorStartProduction&&Nu există suficiente resurse pentru a începe
+ro&&Str_Expansions&&Extensii
+ro&&Str_FindNewClan&&În căutarea de noi breslei
+ro&&Str_Finished&&Terminat
+ro&&Str_FoundBlueprint&&Schita găsite
+ro&&Str_FriendsLike&&Ca prieteni
+ro&&Str_Goods&&Bunuri
+ro&&Str_InsertPoint1&&Folosit
+ro&&Str_InsertPoint2&&SP în
+ro&&Str_InternetError&&Eroare internet
+ro&&Str_JionGuild&&Alăturați-vă breasla
+ro&&Str_Launched&&Lansat
+ro&&Str_Like&&Înnobilare
+ro&&Str_LogIn&&Conecta
+ro&&Str_LogOut&&Logout
+ro&&Str_Medals&&Medalii
+ro&&Str_Money&&Bani
+ro&&Str_NeighborsLike&&Vecinii Ca
+ro&&Str_NoCollectProduction&&Nu există nici un produs finit
+ro&&Str_NoPoint&&Nu sunt disponibile pentru utilizare SP
+ro&&Str_NoTechnology&&Nici o tehnologie pentru a explora
+ro&&Str_NotStudiedAgriculture&&Tehnologie "Agricultura" nu a fost studiată
+ro&&Str_NotStudiedBlacksmithing&&Tehnologie "Fierărie" nu a fost studiată
+ro&&Str_NoСollectСoins&&Nici monedă de colectare
+ro&&Str_PlayersGuild&&Jucătorii din breasla
+ro&&Str_Point&&Utilizare SP
+ro&&Str_Population&&Populație
+ro&&Str_Premium&&PREMIUM
+ro&&Str_Production&&Productie
+ro&&Str_Rank&&Evaluare
+ro&&Str_SelectWorld&&Selectați lume
+ro&&Str_ServiceError&&Eroare de serviciu
+ro&&Str_SessionAborted&&Sesiunea de este întreruptă
+ro&&Str_SP&&SP
+ro&&Str_SR&&Resurse de sezon
+ro&&Str_Start&&Început
+ro&&Str_StartProduction&&De producție a alerga
+ro&&Str_Stop&&Stop
+ro&&Str_Supplies&&Furnituri
+ro&&Str_Treasure&&Vânătoare de comori
+ro&&Str_TreasureFind&&Comorile colectate
+ro&&Str_TreasureWillFind&&Comoara vor găsi
+ro&&Str_UsePoint&&Utilizarea SP
+ro&&Str_Versoin&&Versoin
+ro&&Str_WelkomeSite&&Du-te la site-ul allppl.ru
+ro&&Str_ZeroBalance&&Este necesar pentru a reface echilibrul puncte
+ro&&Str_Сollected&&Сollected
+ro&&Str_СollectСoins&&Bani Сollect
+ro&&TextBoxHash&&HASH
+ro&&TextBoxPassword&&Parolă
+ro&&TextBoxPlayerName&&Numele jucatorului
+ru&&ButtonAuthorization&&Зайти
+ru&&ButtonClanMemberLike&&Лайкнуть согильдийцев
+ru&&ButtonCollectTreasure&&Собрать сокровища
+ru&&ButtonFindNewClan&&Найти и облайкать новую гильдию
+ru&&ButtonLookInWell&&Заглянуть в колодец
+ru&&ButtonPickupMoney&&Собрать монеты
+ru&&ButtonPickupProduction&&Собрать продукцию
+ru&&ButtonSocialLike&&Лайкнуть соседей
+ru&&ButtonStartProduction&&Запуск производства
+ru&&CheckBoxFindGuildAuto&&Искать кланы
+ru&&CheckBoxLikeAuto&&Автоматически
+ru&&CheckBoxPointAuto&&Автоматически
+ru&&CheckBoxProductionAuto&&Автоматически
+ru&&CheckBoxTreasureAuto&&Автоматически
+ru&&GroupBoxAuthorization&&Авторизация
+ru&&GroupBoxBalance&&Баланс
+ru&&GroupBoxLike&&Облагораживание
+ru&&GroupBoxProduction&&Производство
+ru&&GroupBoxSP&&Распределение очков
+ru&&GroupBoxTreasure&&Поиск сокровищ
+ru&&GroupBoxUser&&Игрок
+ru&&LabelBlueprintCount&&Найдено чертежей : 0
+ru&&LabelClanId&&Текущая гильдия
+ru&&LabelGetPoints&&ПОЛУЧИТЬ ПОИНТЫ
+ru&&LabelMedals&&Медали
+ru&&LabelMedalsValue&&0
+ru&&LabelMoney&&Монеты
+ru&&LabelMoneyValue&&0
+ru&&LabelPoints&&БАЛАНС
+ru&&LabelPopulation&&Жители
+ru&&LabelPopulationValue&&0
+ru&&LabelPremium&&Премиум
+ru&&LabelPremiumValue&&0
+ru&&LabelRank&&Рейтинг
+ru&&LabelRankValue&&0
+ru&&LabelSP&&Доступно
+ru&&LabelSPCM&&0/0
+ru&&LabelSPCount&&0
+ru&&LabelSPValue&&0 / 10
+ru&&LabelSupplies&&Ресурсы
+ru&&LabelSuppliesValue&&0
+ru&&Str_Auto&&(авто)
+ru&&Str_AvailableVersoin&&Перезапустите приложение. Доступна новая версия
+ru&&Str_ClanId&&Текущая гильдия
+ru&&Str_ClanMembersLike&&Лайкаем согильдийцев
+ru&&Str_CollectProduction&&Собираем продукцию
+ru&&Str_CollectTreasure&&Ищем сокровища
+ru&&Str_DecommissionedPoint&&Списан 1 Поинт по группе
+ru&&Str_DontFindNewClan&&Не нашли подходящую гильдию
+ru&&Str_ErrorStartProduction&&Не хватает ресурсов для запуска
+ru&&Str_Expansions&&Расширения
+ru&&Str_FindNewClan&&Ищем новую гильдию
+ru&&Str_Finished&&Завершено
+ru&&Str_FoundBlueprint&&Нашли чертеж
+ru&&Str_FriendsLike&&Лайкаем друзей
+ru&&Str_Goods&&Товары
+ru&&Str_InsertPoint1&&Внесли
+ru&&Str_InsertPoint2&&СО в
+ru&&Str_InternetError&&Ошибка работы интернета
+ru&&Str_JionGuild&&Вступили в гильдию
+ru&&Str_Launched&&Запустили
+ru&&Str_Like&&Облагораживание
+ru&&Str_LogIn&&Войти
+ru&&Str_LogOut&&Выйти
+ru&&Str_Medals&&Медали
+ru&&Str_Money&&Монеты
+ru&&Str_NeighborsLike&&Лайкаем соседей
+ru&&Str_NoCollectProduction&&Нет готовой продукции
+ru&&Str_NoPoint&&Нет СО для изучения
+ru&&Str_NoTechnology&&Нет технологий для изучения
+ru&&Str_NotStudiedAgriculture&&Технолония "Земледелие" еще не изучена
+ru&&Str_NotStudiedBlacksmithing&&Технолония "Кузнечное дело" еще не изучена
+ru&&Str_NoСollectСoins&&Нет монет для сбора
+ru&&Str_PlayersGuild&&Игорков в гильдии
+ru&&Str_Point&&Распределение СО
+ru&&Str_Population&&Люди
+ru&&Str_Premium&&КРИСТАЛЛЫ
+ru&&Str_Production&&Производство
+ru&&Str_Rank&&Рейтинг
+ru&&Str_SelectWorld&&Выберите мир
+ru&&Str_ServiceError&&Ошибка работы сервиса
+ru&&Str_SessionAborted&&Сессия прервана
+ru&&Str_SP&&СО
+ru&&Str_SR&&Сезонные ресурсы
+ru&&Str_Start&&Начало
+ru&&Str_StartProduction&&Запускаем производство
+ru&&Str_Stop&&Завершено
+ru&&Str_Supplies&&Ресурсы
+ru&&Str_Treasure&&Поиск сокровищ
+ru&&Str_TreasureFind&&Сокровища собрали
+ru&&Str_TreasureWillFind&&Сокровища найдут
+ru&&Str_UsePoint&&Используем СО
+ru&&Str_Versoin&&Версия
+ru&&Str_WelkomeSite&&Зайдите на сайт allppl.ru
+ru&&Str_ZeroBalance&&Необходимо пополнить баланс Поинтов
+ru&&Str_Сollected&&Собрали
+ru&&Str_СollectСoins&&Собираем монеты
+ru&&TextBoxHash&&HASH
+ru&&TextBoxPassword&&Пароль
+ru&&TextBoxPlayerName&&Имя игрока
+se&&ButtonAuthorization&&Logga in
+se&&ButtonClanMemberLike&&Liksom guild medlemmar
+se&&ButtonCollectTreasure&&Samla skatter
+se&&ButtonFindNewClan&&Hitta nya guild och som
+se&&ButtonLookInWell&&Titta in i brunnen
+se&&ButtonPickupMoney&&Samla mynt
+se&&ButtonPickupProduction&&Samla produkter
+se&&ButtonSocialLike&&Liksom grannar
+se&&ButtonStartProduction&&Produktionsstart
+se&&CheckBoxFindGuildAuto&&Sök klaner
+se&&CheckBoxLikeAuto&&Automatiskt
+se&&CheckBoxPointAuto&&Automatiskt
+se&&CheckBoxProductionAuto&&Automatiskt
+se&&CheckBoxTreasureAuto&&Automatiskt
+se&&GroupBoxAuthorization&&Tillstånd
+se&&GroupBoxBalance&&balansera
+se&&GroupBoxLike&&Förädlande
+se&&GroupBoxProduction&&Produktion
+se&&GroupBoxSP&&Distributionspunkter
+se&&GroupBoxTreasure&&Skattjakt
+se&&GroupBoxUser&&Spelare
+se&&LabelBlueprintCount&&Hittade ritningar: 0
+se&&LabelClanId&&Aktuell skrå
+se&&LabelGetPoints&&FÅ POÄNG
+se&&LabelMedals&&Medaljer
+se&&LabelMedalsValue&&0
+se&&LabelMoney&&Mynt
+se&&LabelMoneyValue&&0
+se&&LabelPoints&&BALANSERA
+se&&LabelPopulation&&Invånare
+se&&LabelPopulationValue&&0
+se&&LabelPremium&&Premie
+se&&LabelPremiumValue&&0
+se&&LabelRank&&Gradering
+se&&LabelRankValue&&0
+se&&LabelSP&&Tillgängliga
+se&&LabelSPCM&&0/0
+se&&LabelSPCount&&0
+se&&LabelSPValue&&0 / 10
+se&&LabelSupplies&&Resurser
+se&&LabelSuppliesValue&&0
+se&&Str_Auto&&(bil)
+se&&Str_AvailableVersoin&&Starta om programmet. En ny version finns tillgänglig
+se&&Str_ClanId&&Aktuell skrå
+se&&Str_ClanMembersLike&&Guild medlemmar Gillar
+se&&Str_CollectProduction&&Samla produktion
+se&&Str_CollectTreasure&&Efter skatt
+se&&Str_DecommissionedPoint&&Decommissioned en punkt för en grupp av
+se&&Str_DontFindNewClan&&Inte hitta en lämplig guild
+se&&Str_ErrorStartProduction&&Inte tillräckligt med resurser för att starta
+se&&Str_Expansions&&Expansioner
+se&&Str_FindNewClan&&Letar efter nya guild
+se&&Str_Finished&&Färdiga
+se&&Str_FoundBlueprint&&Funnet blåkopia
+se&&Str_FriendsLike&&Friends Gillar
+se&&Str_Goods&&Gods
+se&&Str_InsertPoint1&&Begagnade
+se&&Str_InsertPoint2&&Snurra
+se&&Str_InternetError&&Internet fel
+se&&Str_JionGuild&&Gå med i guilden
+se&&Str_Launched&&Lanserade
+se&&Str_Like&&Förädlande
+se&&Str_LogIn&&Logga in
+se&&Str_LogOut&&Logga ut
+se&&Str_Medals&&Medaljer
+se&&Str_Money&&Pengar
+se&&Str_NeighborsLike&&Grannar Gillar
+se&&Str_NoCollectProduction&&Det finns ingen färdig produkt
+se&&Str_NoPoint&&Ingen tillgänglig SP för användning
+se&&Str_NoTechnology&&Ingen teknik att utforska
+se&&Str_NotStudiedAgriculture&&Teknik "jordbruk" har inte studerats
+se&&Str_NotStudiedBlacksmithing&&Teknik "Blacksmithing" har inte studerats
+se&&Str_NoСollectСoins&&Ingen mynt insamling
+se&&Str_PlayersGuild&&Spelare i guild
+se&&Str_Point&&Använd SP
+se&&Str_Population&&Befolkning
+se&&Str_Premium&&PREMIE
+se&&Str_Production&&Produktion
+se&&Str_Rank&&Gradering
+se&&Str_SelectWorld&&Välj värld
+se&&Str_ServiceError&&Servicefel
+se&&Str_SessionAborted&&Sessionen avbryts
+se&&Str_SP&&SP
+se&&Str_SR&&Säsongs källor
+se&&Str_Start&&Start
+se&&Str_StartProduction&&Kör produktion
+se&&Str_Stop&&Sluta
+se&&Str_Supplies&&Tillförsel
+se&&Str_Treasure&&Skattjakt
+se&&Str_TreasureFind&&Skatterna saml
+se&&Str_TreasureWillFind&&Skatt hittar
+se&&Str_UsePoint&&Använda SP
+se&&Str_Versoin&&Versoin
+se&&Str_WelkomeSite&&Gå till platsen allppl.ru
+se&&Str_ZeroBalance&&Det är nödvändigt att fylla på balansen av poäng
+se&&Str_Сollected&&Сollected
+se&&Str_СollectСoins&&Сollect pengar
+se&&TextBoxHash&&HASH
+se&&TextBoxPassword&&Lösenord
+se&&TextBoxPlayerName&&Spelarnamn
+sk&&ButtonAuthorization&&Prihlásiť sa
+sk&&ButtonClanMemberLike&&Rovnako ako členov cechu
+sk&&ButtonCollectTreasure&&Zbierajte poklady
+sk&&ButtonFindNewClan&&Nájsť nové cech a rovnako ako
+sk&&ButtonLookInWell&&Pozrite sa do studne
+sk&&ButtonPickupMoney&&Zbierať mince
+sk&&ButtonPickupProduction&&Zbierajte produkty
+sk&&ButtonSocialLike&&Rovnako ako susedia
+sk&&ButtonStartProduction&&Zahájenie výroby
+sk&&CheckBoxFindGuildAuto&&Hľadať klany
+sk&&CheckBoxLikeAuto&&Automaticky
+sk&&CheckBoxPointAuto&&Automaticky
+sk&&CheckBoxProductionAuto&&Automaticky
+sk&&CheckBoxTreasureAuto&&Automaticky
+sk&&GroupBoxAuthorization&&Autorizácia
+sk&&GroupBoxBalance&&Balance
+sk&&GroupBoxLike&&Vznešený
+sk&&GroupBoxProduction&&Výrobné
+sk&&GroupBoxSP&&Distribučné body
+sk&&GroupBoxTreasure&&Honba za pokladom
+sk&&GroupBoxUser&&Hráč
+sk&&LabelBlueprintCount&&Nájdených plány: 0
+sk&&LabelClanId&&Aktuálne cech
+sk&&LabelGetPoints&&Získať body
+sk&&LabelMedals&&Medaily
+sk&&LabelMedalsValue&&0
+sk&&LabelMoney&&Mince
+sk&&LabelMoneyValue&&0
+sk&&LabelPoints&&BALANCE
+sk&&LabelPopulation&&Obyvatelia
+sk&&LabelPopulationValue&&0
+sk&&LabelPremium&&Premium
+sk&&LabelPremiumValue&&0
+sk&&LabelRank&&Hodnotenie
+sk&&LabelRankValue&&0
+sk&&LabelSP&&Dostupný
+sk&&LabelSPCM&&0/0
+sk&&LabelSPCount&&0
+sk&&LabelSPValue&&0 / 10
+sk&&LabelSupplies&&Zdroje
+sk&&LabelSuppliesValue&&0
+sk&&Str_Auto&&(auto)
+sk&&Str_AvailableVersoin&&Restart application. Nová verzia je k dispozícii
+sk&&Str_ClanId&&Aktuálne cech
+sk&&Str_ClanMembersLike&&Členov cechu Like
+sk&&Str_CollectProduction&&Zber výroba
+sk&&Str_CollectTreasure&&Hľadáte poklad
+sk&&Str_DecommissionedPoint&&Vyradené z prevádzky 1 bod za skupinu
+sk&&Str_DontFindNewClan&&Nenašli ste vhodnú cech
+sk&&Str_ErrorStartProduction&&Nie je dostatok prostriedkov na začiatok
+sk&&Str_Expansions&&Rozšírenie
+sk&&Str_FindNewClan&&Hľadáte nový cech
+sk&&Str_Finished&&Dokončené
+sk&&Str_FoundBlueprint&&Nájdených modrotlač
+sk&&Str_FriendsLike&&Priatelia Like
+sk&&Str_Goods&&Tovar
+sk&&Str_InsertPoint1&&Použitý
+sk&&Str_InsertPoint2&&SP v
+sk&&Str_InternetError&&Chyba Internet
+sk&&Str_JionGuild&&Zapojte sa do cechu
+sk&&Str_Launched&&Spustený
+sk&&Str_Like&&Vznešený
+sk&&Str_LogIn&&Prihlásiť sa
+sk&&Str_LogOut&&Odhlásiť sa
+sk&&Str_Medals&&Medaily
+sk&&Str_Money&&Peňažný
+sk&&Str_NeighborsLike&&Susedov, ako
+sk&&Str_NoCollectProduction&&Neexistuje žiadny konečný produkt,
+sk&&Str_NoPoint&&Nie je k dispozícii pre použitie SP
+sk&&Str_NoTechnology&&Žiadna technológia, aby preskúmala
+sk&&Str_NotStudiedAgriculture&&Technológia "Poľnohospodárstvo" nebol študovaný
+sk&&Str_NotStudiedBlacksmithing&&Technológia "Kováčstvo" nebol študovaný
+sk&&Str_NoСollectСoins&&No zbieranie mince
+sk&&Str_PlayersGuild&&Hráči v cechu
+sk&&Str_Point&&Použiť SP
+sk&&Str_Population&&Obyvateľstvo
+sk&&Str_Premium&&PREMIUM
+sk&&Str_Production&&Výrobné
+sk&&Str_Rank&&Hodnotenie
+sk&&Str_SelectWorld&&Vybrať svet
+sk&&Str_ServiceError&&Chyba služby
+sk&&Str_SessionAborted&&Sedenie je prerušený
+sk&&Str_SP&&SP
+sk&&Str_SR&&Sezónne zdroje
+sk&&Str_Start&&Začiatok
+sk&&Str_StartProduction&&Spustenie výroby
+sk&&Str_Stop&&Stop
+sk&&Str_Supplies&&Dodávky
+sk&&Str_Treasure&&Honba za pokladom
+sk&&Str_TreasureFind&&Poklady zhromaždené
+sk&&Str_TreasureWillFind&&Poklad nájde
+sk&&Str_UsePoint&&Používanie SP
+sk&&Str_Versoin&&Versoin
+sk&&Str_WelkomeSite&&Ísť na stránky allppl.ru
+sk&&Str_ZeroBalance&&Je potrebné doplniť rovnováhu bodov
+sk&&Str_Сollected&&Сollected
+sk&&Str_СollectСoins&&Сollect peniaze
+sk&&TextBoxHash&&HASH
+sk&&TextBoxPassword&&Heslo
+sk&&TextBoxPlayerName&&Meno hráča
+th&&ButtonAuthorization&&K̄hêā s̄ū̀ rabb
+th&&ButtonClanMemberLike&&chèn deīyw kạb s̄mā chi kki ld̒
+th&&ButtonCollectTreasure&&kĕb s̄mbạti
+th&&ButtonFindNewClan&&kĥn h̄āki ld̒ h̄ım̀ læa chxb
+th&&ButtonLookInWell&&dū pĕn xỳāng dī
+th&&ButtonPickupMoney&&kĕb rwbrwm h̄erīyỵ
+th&&ButtonPickupProduction&&kĕb p̄hlitp̣hạṇṯh̒
+th&&ButtonSocialLike&&chèn deīyw kạb pheụ̄̀xnb̂ān
+th&&ButtonStartProduction&&cud reìm t̂n k̄hxng kār p̄hlit
+th&&CheckBoxFindGuildAuto&&kĥnh̄ā s̄mạkhrphrrkhphwk
+th&&CheckBoxLikeAuto&&doy xạtnomạti
+th&&CheckBoxPointAuto&&doy xạtnomạti
+th&&CheckBoxProductionAuto&&doy xạtnomạti
+th&&CheckBoxTreasureAuto&&doy xạtnomạti
+th&&GroupBoxAuthorization&&kār xnumạti
+th&&GroupBoxBalance&&s̄mdul
+th&&GroupBoxLike&&ennobling
+th&&GroupBoxProduction&&kār p̄hlit
+th&&GroupBoxSP&&cud cækc̀āy
+th&&GroupBoxTreasure&&l̀ā s̄mbạti
+th&&GroupBoxUser&&p̄hū̂ lèn
+th&&LabelBlueprintCount&&phimph̒k̄heīyw phb: 0
+th&&LabelClanId&&S̄mākhm pạccubạn
+th&&LabelGetPoints&&dị̂ rạb khanæn
+th&&LabelMedals&&h̄erīyỵ
+th&&LabelMedalsValue&&0
+th&&LabelMoney&&h̄erīyỵ
+th&&LabelMoneyValue&&0
+th&&LabelPoints&&s̄mdul
+th&&LabelPopulation&&thī̀ xāṣ̄ạy xyū̀ nı
+th&&LabelPopulationValue&&0
+th&&LabelPremium&&phrīe​​mī̀ ym
+th&&LabelPremiumValue&&0
+th&&LabelRank&&kār cạd xạndạb
+th&&LabelRankValue&&0
+th&&LabelSP&&thī̀ mī cảh̄ǹāy
+th&&LabelSPCM&&0/0
+th&&LabelSPCount&&0
+th&&LabelSPValue&&0 / 10
+th&&LabelSupplies&&Thrạphyākr
+th&&LabelSuppliesValue&&0
+th&&Str_Auto&&(xạtnomạti)
+th&&Str_AvailableVersoin&&xæ phli khe chạn reìm t̂n h̄ım̀ rùn h̄ım̀ thī̀ s̄āmārt̄h chı̂dị̂
+th&&Str_ClanId&&s̄mākhm pạccubạn
+th&&Str_ClanMembersLike&&chèn deīyw kạb s̄māchik s̄mākhm
+th&&Str_CollectProduction&&kār p̄hlit kār cạd kĕb p̣hās̄ʹī
+th&&Str_CollectTreasure&&kảlạng mxng h̄ā s̄mbạti
+th&&Str_DecommissionedPoint&&pld pracả kār 1 cud s̄ảh̄rạb klùm k̄hxng
+th&&Str_DontFindNewClan&&mị̀ phb ki ld̒ thī̀ h̄emāas̄m
+th&&Str_ErrorStartProduction&&Thrạphyākr mị̀ pheīyngphx thī̀ ca reìm t̂n
+th&&Str_Expansions&&k̄hyāy
+th&&Str_FindNewClan&&kảlạng mxng h̄āki ld̒ h̄ım̀
+th&&Str_Finished&&s̄er̆c s̄în
+th&&Str_FoundBlueprint&&phimph̒k̄heīyw phb
+th&&Str_FriendsLike&&chèn deīyw kạb pheụ̄̀xn
+th&&Str_Goods&&s̄inkĥā
+th&&Str_InsertPoint1&&chı̂
+th&&Str_InsertPoint2&&SP nı
+th&&Str_InternetError&&k̄ĥx p̄hid phlād nı xinthexr̒nĕt
+th&&Str_JionGuild&&k̄hêā r̀wm kạb s̄mākhm
+th&&Str_Launched&&peid tạw
+th&&Str_Like&&ennobling
+th&&Str_LogIn&&k̄hêā s̄ū̀ rabb
+th&&Str_LogOut&&xxk cāk rabb
+th&&Str_Medals&&h̄erīyỵ
+th&&Str_Money&&ngein
+th&&Str_NeighborsLike&&chèn deīyw kạb pheụ̄̀xnb̂ān
+th&&Str_NoCollectProduction&&mị̀mī p̄hlitp̣hạṇṯh̒ thī̀ s̄er̆c s̄mbūrṇ̒ pĕn
+th&&Str_NoPoint&&mị̀mī SP s̄ảh̄rạb kār chı̂ ngān
+th&&Str_NoTechnology&&mị̀mī thekhnoloyī nı kār s̄ảrwc
+th&&Str_NotStudiedAgriculture&&thekhnoloyī"kes̄ʹtr" yạng mị̀ dị̂ rạb kār ṣ̄ụks̄ʹā
+th&&Str_NotStudiedBlacksmithing&&thekhnoloyī"Blacksmithing" yạng mị̀ dị̂ rạb kār ṣ̄ụks̄ʹā
+th&&Str_NoСollectСoins&&kĕb h̄erīyỵ mị̀mī
+th&&Str_PlayersGuild&&p̄hū̂ lèn nı ki ld̒
+th&&Str_Point&&chı̂ SP
+th&&Str_Population&&prachākr
+th&&Str_Premium&&phrīe​​mī̀ ym
+th&&Str_Production&&kār p̄hlit
+th&&Str_Rank&&kār cạd xạndạb
+th&&Str_SelectWorld&&leụ̄xk lok
+th&&Str_ServiceError&&k̄ĥx p̄hid phlād brikār
+th&&Str_SessionAborted&&ses̄chạ̀n t̄hūk k̄hạdcạngh̄wa
+th&&Str_SP&&SP
+th&&Str_SR&&thrạphyākr tām vdūkāl
+th&&Str_Start&&kār reìm t̂n
+th&&Str_StartProduction&&reīyk chı̂ kār p̄hlit
+th&&Str_Stop&&h̄yud
+th&&Str_Supplies&&wạs̄du
+th&&Str_Treasure&&l̀ā s̄mbạti
+th&&Str_TreasureFind&&s̄mbạti thī̀ kĕb rwbrwm
+th&&Str_TreasureWillFind&&the r chex r̒ ca dị̂ phb kạb
+th&&Str_UsePoint&&chı̂ SP
+th&&Str_Versoin&&versoin
+th&&Str_WelkomeSite&&pị thī̀ allppl.Ru wĕbsịt̒
+th&&Str_ZeroBalance&&mạn pĕn s̄ìng cảpĕn thī̀ ca teim tĕm khwām s̄mdul k̄hxng cud
+th&&Str_Сollected&&Sollected
+th&&Str_СollectСoins&&ngeinSollect
+th&&TextBoxHash&&HASH
+th&&TextBoxPassword&&rh̄ạs̄ p̄h̀ān
+th&&TextBoxPlayerName&&chụ̄̀x p̄hū̂ lèn
+tr&&ButtonAuthorization&&Oturum aç
+tr&&ButtonClanMemberLike&&Lonca üyeleri gibi
+tr&&ButtonCollectTreasure&&Hazineleri toplamak
+tr&&ButtonFindNewClan&&Yeni lonca ve Beğen bul
+tr&&ButtonLookInWell&&Kuyunun içine bak
+tr&&ButtonPickupMoney&&Topladığımız paralar
+tr&&ButtonPickupProduction&&Ürünleri toplayın
+tr&&ButtonSocialLike&&Komşuları gibi
+tr&&ButtonStartProduction&&Üretim Başlangıç
+tr&&CheckBoxFindGuildAuto&&Arama klanlar
+tr&&CheckBoxLikeAuto&&Otomatik olarak
+tr&&CheckBoxPointAuto&&Otomatik olarak
+tr&&CheckBoxProductionAuto&&Otomatik olarak
+tr&&CheckBoxTreasureAuto&&Otomatik olarak
+tr&&GroupBoxAuthorization&&Yetkilendirme
+tr&&GroupBoxBalance&&Denge
+tr&&GroupBoxLike&&Yüceltici
+tr&&GroupBoxProduction&&Üretim
+tr&&GroupBoxSP&&Dağıtım noktaları
+tr&&GroupBoxTreasure&&Hazine avı
+tr&&GroupBoxUser&&Player
+tr&&LabelBlueprintCount&&Bulunan planları: 0
+tr&&LabelClanId&&Güncel lonca
+tr&&LabelGetPoints&&PUAN ALMAK
+tr&&LabelMedals&&Madalyalar
+tr&&LabelMedalsValue&&0
+tr&&LabelMoney&&Paraları
+tr&&LabelMoneyValue&&0
+tr&&LabelPoints&&DENGE
+tr&&LabelPopulation&&Sakinleri
+tr&&LabelPopulationValue&&0
+tr&&LabelPremium&&Premium
+tr&&LabelPremiumValue&&0
+tr&&LabelRank&&Puanlama
+tr&&LabelRankValue&&0
+tr&&LabelSP&&Mevcut
+tr&&LabelSPCM&&0/0
+tr&&LabelSPCount&&0
+tr&&LabelSPValue&&0 / 10
+tr&&LabelSupplies&&Kaynaklar
+tr&&LabelSuppliesValue&&0
+tr&&Str_Auto&&(otomatik)
+tr&&Str_AvailableVersoin&&Yeniden uygulama. Yeni bir sürümü mevcut
+tr&&Str_ClanId&&Güncel lonca
+tr&&Str_ClanMembersLike&&Gibi Lonca üyeleri
+tr&&Str_CollectProduction&&Toplama üretim
+tr&&Str_CollectTreasure&&Hazine mi arıyorsunuz
+tr&&Str_DecommissionedPoint&&Bir grup 1 noktası hizmet dışı
+tr&&Str_DontFindNewClan&&Uygun bir lonca bulamadık
+tr&&Str_ErrorStartProduction&&Yeterince kaynak başlatmak için
+tr&&Str_Expansions&&Açılımları
+tr&&Str_FindNewClan&&Yeni lonca arıyorsunuz
+tr&&Str_Finished&&Bitirdi
+tr&&Str_FoundBlueprint&&Bulunan planı
+tr&&Str_FriendsLike&&Gibi Arkadaşları
+tr&&Str_Goods&&Eşya
+tr&&Str_InsertPoint1&&Kullanılmış
+tr&&Str_InsertPoint2&&SP
+tr&&Str_InternetError&&İnternet hatası
+tr&&Str_JionGuild&&Lonca katılın
+tr&&Str_Launched&&Başlatılan
+tr&&Str_Like&&Yüceltici
+tr&&Str_LogIn&&Oturum aç
+tr&&Str_LogOut&&Çıkış Yap
+tr&&Str_Medals&&Madalyalar
+tr&&Str_Money&&Para
+tr&&Str_NeighborsLike&&Gibi Komşular
+tr&&Str_NoCollectProduction&&Hiçbir bitmiş ürün bulunmamaktadır
+tr&&Str_NoPoint&&Kullanımı için mevcut SP
+tr&&Str_NoTechnology&&Hiçbir teknoloji keşfetmek için
+tr&&Str_NotStudiedAgriculture&&Teknoloji "Tarım" incelenmemiştir
+tr&&Str_NotStudiedBlacksmithing&&Teknoloji "Demircilik" incelenmemiştir
+tr&&Str_NoСollectСoins&&Hiçbir para toplama
+tr&&Str_PlayersGuild&&Lonca oyuncular
+tr&&Str_Point&&Kullan SP
+tr&&Str_Population&&Nüfus
+tr&&Str_Premium&&PREMIUM
+tr&&Str_Production&&Üretim
+tr&&Str_Rank&&Puanlama
+tr&&Str_SelectWorld&&Seçin Dünya
+tr&&Str_ServiceError&&Servis hatası
+tr&&Str_SessionAborted&&Oturumu kesilir
+tr&&Str_SP&&SP
+tr&&Str_SR&&Mevsimsel kaynakları
+tr&&Str_Start&&Başlangıç
+tr&&Str_StartProduction&&Run üretim
+tr&&Str_Stop&&Dur
+tr&&Str_Supplies&&Malzemeleri
+tr&&Str_Treasure&&Hazine avı
+tr&&Str_TreasureFind&&Hazineleri toplanan
+tr&&Str_TreasureWillFind&&Hazine bulacaksınız
+tr&&Str_UsePoint&&Sp
+tr&&Str_Versoin&&Versoin
+tr&&Str_WelkomeSite&&Sitesi allppl.ru git
+tr&&Str_ZeroBalance&&Bu nokta dengesini doldurmak için gerekli
+tr&&Str_Сollected&&Сollected
+tr&&Str_СollectСoins&&Сollect para
+tr&&TextBoxHash&&HASH
+tr&&TextBoxPassword&&Parola
+tr&&TextBoxPlayerName&&Oyuncu adı
