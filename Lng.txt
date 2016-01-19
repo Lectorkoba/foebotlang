@@ -98,6 +98,7 @@ cz&&Str_СollectСoins&&Сollect peníze
 cz&&TextBoxHash&&HASH
 cz&&TextBoxPassword&&Heslo
 cz&&TextBoxPlayerName&&Jméno hráče
+
 de&&ButtonAuthorization&&Anmeldung
 de&&ButtonClanMemberLike&&Wie Gildenmitglieder
 de&&ButtonCollectTreasure&&Sammeln Schätze
@@ -198,6 +199,7 @@ de&&Str_СollectСoins&&Сollect Geld
 de&&TextBoxHash&&HASH
 de&&TextBoxPassword&&Passwort
 de&&TextBoxPlayerName&&Spielername
+
 dk&&ButtonAuthorization&&Log på
 dk&&ButtonClanMemberLike&&Ligesom guild medlemmer
 dk&&ButtonCollectTreasure&&Saml skatte
@@ -298,6 +300,7 @@ dk&&Str_СollectСoins&&Сollect penge
 dk&&TextBoxHash&&HASH
 dk&&TextBoxPassword&&Adgangskode
 dk&&TextBoxPlayerName&&Spillernavn
+
 en&&ButtonAuthorization&&Login
 en&&ButtonClanMemberLike&&Like guild members
 en&&ButtonCollectTreasure&&Collect treasures
@@ -398,6 +401,7 @@ en&&Str_СollectСoins&&Сollect money
 en&&TextBoxHash&&HASH
 en&&TextBoxPassword&&Password
 en&&TextBoxPlayerName&&Player name
+
 es&&ButtonAuthorization&&Iniciar sesión
 es&&ButtonClanMemberLike&&Al igual que los miembros del gremio
 es&&ButtonCollectTreasure&&Recoge tesoros
@@ -498,6 +502,7 @@ es&&Str_СollectСoins&&Dinero Сollect
 es&&TextBoxHash&&HASH
 es&&TextBoxPassword&&Clave
 es&&TextBoxPlayerName&&Nombre del jugador
+
 fi&&ButtonAuthorization&&Kirjaudu sisään
 fi&&ButtonClanMemberLike&&Kuten killan jäsenet
 fi&&ButtonCollectTreasure&&Kerää aarteita
@@ -598,6 +603,7 @@ fi&&Str_СollectСoins&&Сollect rahaa
 fi&&TextBoxHash&&HASH
 fi&&TextBoxPassword&&Salasana
 fi&&TextBoxPlayerName&&Pelaajan nimi
+
 fr&&ButtonAuthorization&&S`identifier
 fr&&ButtonClanMemberLike&&Comme membres de la guilde
 fr&&ButtonCollectTreasure&&Collectez les trésors
@@ -698,6 +704,7 @@ fr&&Str_СollectСoins&&L`argent Сollect
 fr&&TextBoxHash&&HASH
 fr&&TextBoxPassword&&Mot de passe
 fr&&TextBoxPlayerName&&Nom de joueur
+
 gr&&ButtonAuthorization&&Σύνδεση
 gr&&ButtonClanMemberLike&&Όπως και τα μέλη του τάγματος
 gr&&ButtonCollectTreasure&&Συλλέξτε θησαυρούς
@@ -798,6 +805,7 @@ gr&&Str_СollectСoins&&Сollect χρήματα
 gr&&TextBoxHash&&HASH
 gr&&TextBoxPassword&&Σύνθημα
 gr&&TextBoxPlayerName&&Όνομα παίχτη
+
 hu&&ButtonAuthorization&&Bejelentkezés
 hu&&ButtonClanMemberLike&&Mint egyesületi tagok
 hu&&ButtonCollectTreasure&&Kincseket gyűjteni
@@ -898,6 +906,7 @@ hu&&Str_СollectСoins&&Сollect pénzt
 hu&&TextBoxHash&&HASH
 hu&&TextBoxPassword&&Jelszó
 hu&&TextBoxPlayerName&&Játékos neve
+
 it&&ButtonAuthorization&&Accesso
 it&&ButtonClanMemberLike&&Come membri della gilda
 it&&ButtonCollectTreasure&&Raccogliere tesori
@@ -998,6 +1007,7 @@ it&&Str_СollectСoins&&Soldi Сollect
 it&&TextBoxHash&&HASH
 it&&TextBoxPassword&&Parola d`ordine
 it&&TextBoxPlayerName&&Nome del giocatore
+
 nl&&ButtonAuthorization&&Aanmelden
 nl&&ButtonClanMemberLike&&Net gildeleden
 nl&&ButtonCollectTreasure&&Verzamelen van schatten
@@ -1098,6 +1108,7 @@ nl&&Str_СollectСoins&&Сollect geld
 nl&&TextBoxHash&&HASH
 nl&&TextBoxPassword&&Wachtwoord
 nl&&TextBoxPlayerName&&Naam speler
+
 no&&ButtonAuthorization&&Logg inn
 no&&ButtonClanMemberLike&&Som guild medlemmer
 no&&ButtonCollectTreasure&&Samle skatter
@@ -1198,6 +1209,7 @@ no&&Str_СollectСoins&&Сollect penger
 no&&TextBoxHash&&HASH
 no&&TextBoxPassword&&Passord
 no&&TextBoxPlayerName&&Spillernavn
+
 pl&&ButtonAuthorization&&Zaloguj się
 pl&&ButtonClanMemberLike&&Podobnie jak członkowie gildii
 pl&&ButtonCollectTreasure&&Zbierać skarby
@@ -1298,6 +1310,7 @@ pl&&Str_СollectСoins&&Сollect pieniądze
 pl&&TextBoxHash&&HASH
 pl&&TextBoxPassword&&Hasło
 pl&&TextBoxPlayerName&&Nazwa gracza
+
 pt&&ButtonAuthorization&&Entrar
 pt&&ButtonClanMemberLike&&Como membros da guilda
 pt&&ButtonCollectTreasure&&Coletar tesouros
@@ -1398,6 +1411,7 @@ pt&&Str_СollectСoins&&Dinheiro Сollect
 pt&&TextBoxHash&&HASH
 pt&&TextBoxPassword&&Senha
 pt&&TextBoxPlayerName&&Nome do jogador
+
 ro&&ButtonAuthorization&&Conecta
 ro&&ButtonClanMemberLike&&Ca membrii breslei
 ro&&ButtonCollectTreasure&&Colecta comori
@@ -1498,6 +1512,7 @@ ro&&Str_СollectСoins&&Bani Сollect
 ro&&TextBoxHash&&HASH
 ro&&TextBoxPassword&&Parolă
 ro&&TextBoxPlayerName&&Numele jucatorului
+
 ru&&ButtonAuthorization&&Зайти
 ru&&ButtonClanMemberLike&&Лайкнуть согильдийцев
 ru&&ButtonCollectTreasure&&Собрать сокровища
@@ -1598,6 +1613,7 @@ ru&&Str_СollectСoins&&Собираем монеты
 ru&&TextBoxHash&&HASH
 ru&&TextBoxPassword&&Пароль
 ru&&TextBoxPlayerName&&Имя игрока
+
 se&&ButtonAuthorization&&Logga in
 se&&ButtonClanMemberLike&&Liksom guild medlemmar
 se&&ButtonCollectTreasure&&Samla skatter
@@ -1698,6 +1714,7 @@ se&&Str_СollectСoins&&Сollect pengar
 se&&TextBoxHash&&HASH
 se&&TextBoxPassword&&Lösenord
 se&&TextBoxPlayerName&&Spelarnamn
+
 sk&&ButtonAuthorization&&Prihlásiť sa
 sk&&ButtonClanMemberLike&&Rovnako ako členov cechu
 sk&&ButtonCollectTreasure&&Zbierajte poklady
@@ -1798,6 +1815,7 @@ sk&&Str_СollectСoins&&Сollect peniaze
 sk&&TextBoxHash&&HASH
 sk&&TextBoxPassword&&Heslo
 sk&&TextBoxPlayerName&&Meno hráča
+
 th&&ButtonAuthorization&&K̄hêā s̄ū̀ rabb
 th&&ButtonClanMemberLike&&chèn deīyw kạb s̄mā chi kki ld̒
 th&&ButtonCollectTreasure&&kĕb s̄mbạti
@@ -1898,6 +1916,7 @@ th&&Str_СollectСoins&&ngeinSollect
 th&&TextBoxHash&&HASH
 th&&TextBoxPassword&&rh̄ạs̄ p̄h̀ān
 th&&TextBoxPlayerName&&chụ̄̀x p̄hū̂ lèn
+
 tr&&ButtonAuthorization&&Oturum aç
 tr&&ButtonClanMemberLike&&Lonca üyeleri gibi
 tr&&ButtonCollectTreasure&&Hazineleri toplamak
