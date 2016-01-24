@@ -1314,35 +1314,35 @@ pl&&TextBoxPlayerName&&Nazwa gracza
 pt&&ButtonAuthorization&&Entrar
 pt&&ButtonClanMemberLike&&Como membros da guilda
 pt&&ButtonCollectTreasure&&Coletar tesouros
-pt&&ButtonFindNewClan&&Encontrar novos aliança e como
-pt&&ButtonLookInWell&&Olhe para dentro do poço
+pt&&ButtonFindNewClan&&Encontrar novas guildas
+pt&&ButtonLookInWell&&Olhar o resto
 pt&&ButtonPickupMoney&&Coletar moedas
-pt&&ButtonPickupProduction&&Coletar produtos
+pt&&ButtonPickupProduction&&Coletar produção
 pt&&ButtonSocialLike&&Como vizinhos
-pt&&ButtonStartProduction&&Início da produção
-pt&&CheckBoxFindGuildAuto&&Pesquisar clãs
-pt&&CheckBoxLikeAuto&&Automaticamente
-pt&&CheckBoxPointAuto&&Automaticamente
-pt&&CheckBoxProductionAuto&&Automaticamente
-pt&&CheckBoxTreasureAuto&&Automaticamente
+pt&&ButtonStartProduction&&Começando produção
+pt&&CheckBoxFindGuildAuto&&Pesquisar guildas
+pt&&CheckBoxLikeAuto&&Automático
+pt&&CheckBoxPointAuto&&Automático
+pt&&CheckBoxProductionAuto&&Automático
+pt&&CheckBoxTreasureAuto&&Automático
 pt&&GroupBoxAuthorization&&Autorização
-pt&&GroupBoxBalance&&Equilibrar
-pt&&GroupBoxLike&&Enobrecedor
+pt&&GroupBoxBalance&&Balanço
+pt&&GroupBoxLike&&Auxilio
 pt&&GroupBoxProduction&&Produção
 pt&&GroupBoxSP&&Pontos de distribuição
 pt&&GroupBoxTreasure&&Caça ao tesouro
 pt&&GroupBoxUser&&Jogador
-pt&&LabelBlueprintCount&&Blueprints encontrados: 0
-pt&&LabelClanId&&Clã atual
-pt&&LabelGetPoints&&Obter pontos
+pt&&LabelBlueprintCount&&Plantas encontradas: 0
+pt&&LabelClanId&&Guilda atual
+pt&&LabelGetPoints&&Obter pontos, BR usar paypal.
 pt&&LabelMedals&&Medalhas
 pt&&LabelMedalsValue&&0
 pt&&LabelMoney&&Moedas
 pt&&LabelMoneyValue&&0
-pt&&LabelPoints&&EQUILIBRAR
+pt&&LabelPoints&&Pontos
 pt&&LabelPopulation&&Moradores
 pt&&LabelPopulationValue&&0
-pt&&LabelPremium&&Prêmio
+pt&&LabelPremium&&Diamantes
 pt&&LabelPremiumValue&&0
 pt&&LabelRank&&Classificação
 pt&&LabelRankValue&&0
@@ -1350,67 +1350,67 @@ pt&&LabelSP&&Disponível
 pt&&LabelSPCM&&0/0
 pt&&LabelSPCount&&0
 pt&&LabelSPValue&&0 / 10
-pt&&LabelSupplies&&Recursos
+pt&&LabelSupplies&&Mantimentos
 pt&&LabelSuppliesValue&&0
 pt&&Str_Auto&&(auto)
-pt&&Str_AvailableVersoin&&Aplicação Restart. A nova versão está disponível
-pt&&Str_ClanId&&Clã atual
+pt&&Str_AvailableVersoin&&Reiniciar. Nova versão está disponível.
+pt&&Str_ClanId&&Guilda atual
 pt&&Str_ClanMembersLike&&Como membros da guilda
 pt&&Str_CollectProduction&&Coleta de produção
 pt&&Str_CollectTreasure&&Procurando por tesouro
 pt&&Str_DecommissionedPoint&&Desmantelada 1 ponto por um grupo de
-pt&&Str_DontFindNewClan&&Não encontrou uma aliança adequado
+pt&&Str_DontFindNewClan&&Não encontrou uma guilda adequada
 pt&&Str_ErrorStartProduction&&Não há recursos suficientes para começar
 pt&&Str_Expansions&&Expansões
-pt&&Str_FindNewClan&&Procurando uma guild nova
-pt&&Str_Finished&&Acabado
-pt&&Str_FoundBlueprint&&Modelo encontrado
-pt&&Str_FriendsLike&&Friends Like
+pt&&Str_FindNewClan&&Procurando uma guilda nova
+pt&&Str_Finished&&Finalizado
+pt&&Str_FoundBlueprint&&Planta encontrada
+pt&&Str_FriendsLike&&Amigos como
 pt&&Str_Goods&&Bens
-pt&&Str_InsertPoint1&&Usava
+pt&&Str_InsertPoint1&&Usar
 pt&&Str_InsertPoint2&&Girar
-pt&&Str_InternetError&&Erro Internet
-pt&&Str_JionGuild&&Junte-se à aliança
-pt&&Str_Launched&&Lançada
-pt&&Str_Like&&Enobrecedor
+pt&&Str_InternetError&&Erro na internet
+pt&&Str_JionGuild&&Junte-se à guilda
+pt&&Str_Launched&&Lançado
+pt&&Str_Like&&Auxilio
 pt&&Str_LogIn&&Entrar
 pt&&Str_LogOut&&Sair
 pt&&Str_Medals&&Medalhas
 pt&&Str_Money&&Dinheiro
 pt&&Str_NeighborsLike&&Vizinhos como
-pt&&Str_NoCollectProduction&&Não há produto acabado
-pt&&Str_NoPoint&&Não SP disponíveis para uso
-pt&&Str_NoTechnology&&Nenhuma tecnologia para explorar
-pt&&Str_NotStudiedAgriculture&&Tecnologia "Agricultura" não foi estudado
-pt&&Str_NotStudiedBlacksmithing&&Tecnologia "Ferraria" não foi estudado
-pt&&Str_NoСollectСoins&&Sem coleta de moeda
+pt&&Str_NoCollectProduction&&Não há coletas disponiveis
+pt&&Str_NoPoint&&Não há pontos FG disponíveis para uso
+pt&&Str_NoTechnology&&Nenhuma tecnologia para pesquisar
+pt&&Str_NotStudiedAgriculture&&Tecnologia "Agricultura" não foi pequisado
+pt&&Str_NotStudiedBlacksmithing&&Tecnologia "Ferraria" não foi pesquisado
+pt&&Str_NoСollectСoins&&Sem coleta de moedas disponivel
 pt&&Str_PlayersGuild&&Jogadores na guilda
-pt&&Str_Point&&Use SP
+pt&&Str_Point&&Usar FG
 pt&&Str_Population&&População
 pt&&Str_Premium&&PREMIUM
 pt&&Str_Production&&Produção
 pt&&Str_Rank&&Classificação
-pt&&Str_SelectWorld&&Selecione mundo
-pt&&Str_ServiceError&&Erro de serviço
-pt&&Str_SessionAborted&&A sessão é interrompida
-pt&&Str_SP&&SP
-pt&&Str_SR&&Recursos sazonais
+pt&&Str_SelectWorld&&Selecionar seu mundo
+pt&&Str_ServiceError&&Erro no serviço. Verificar conexão.
+pt&&Str_SessionAborted&&A sessão foi interrompida.
+pt&&Str_SP&&FG
+pt&&Str_SR&&Recursos
 pt&&Str_Start&&Começar
-pt&&Str_StartProduction&&Execute produção
-pt&&Str_Stop&&Pare
+pt&&Str_StartProduction&&Começando a produção
+pt&&Str_Stop&&Parar
 pt&&Str_Supplies&&Suprimentos
 pt&&Str_Treasure&&Caça ao tesouro
-pt&&Str_TreasureFind&&Os tesouros recolhidos
-pt&&Str_TreasureWillFind&&Treasure vai encontrar
-pt&&Str_UsePoint&&Usando SP
-pt&&Str_Versoin&&Versoin
-pt&&Str_WelkomeSite&&Ir para o site de allppl.ru
-pt&&Str_ZeroBalance&&É necessário para repor o equilíbrio de pontos
-pt&&Str_Сollected&&Сollected
-pt&&Str_СollectСoins&&Dinheiro Сollect
+pt&&Str_TreasureFind&&Tesouros encontrado
+pt&&Str_TreasureWillFind&&Vai encontrar o tesouro
+pt&&Str_UsePoint&&Usando ponto forge
+pt&&Str_Versoin&&Versão
+pt&&Str_WelkomeSite&&Ir para o site allppl.ru
+pt&&Str_ZeroBalance&&É necessário repor os pontos
+pt&&Str_Сollected&&Coletado
+pt&&Str_СollectСoins&&Coletando dinheiro
 pt&&TextBoxHash&&HASH
-pt&&TextBoxPassword&&Senha
-pt&&TextBoxPlayerName&&Nome do jogador
+pt&&TextBoxPassword&&Sua senha
+pt&&TextBoxPlayerName&&Seu nome de jogador
 
 ro&&ButtonAuthorization&&Conecta
 ro&&ButtonClanMemberLike&&Ca membrii breslei
